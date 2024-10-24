@@ -14,7 +14,7 @@ menu_settings:
     - title: 'Translations'
       url: '/trans'   
     - title: 'Brazil LAB'
-      url: '/Brazil-LAB'
+      url: '/brazilLAB'
     - title: 'Hearing Lima'
       url: '/espalhelima'   
     - title: 'Asymptote'
