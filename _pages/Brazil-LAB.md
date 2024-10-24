@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/jaider.jpg'
 ---
 
-![](images/jaider.jpg)
+![](/images/jaider.jpg)
 
 The Brazil LAB is an original initiative, gathering Princeton faculty and students working in and on Brazil and on subjects Brazil is helpful to think with. Spearheaded by the Princeton Insitute for International and Regional Studies (PIIRS) and in synergy with various departments, programs and initiatives, the LAB (Luso-Afro-Brazilian Studies) is a multi-disciplinary research and teaching hub for exploring the country’s history, politics and culture, along with its regional significance and international connections.
 
