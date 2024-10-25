@@ -1,18 +1,20 @@
 ---
-title: 'Brazil LAB'
-subtitle: 'Journalism / News / Dispatch'
+title: 'News'
+subtitle: 'Journalism / Dispatch / Reporting'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/jaider.jpg'
 ---
 
+## Brazil LAB 
+
 ![](/images/jaider.jpg)
 
-The Brazil LAB is an original initiative, gathering Princeton faculty and students working in and on Brazil and on subjects Brazil is helpful to think with. Spearheaded by the Princeton Insitute for International and Regional Studies (PIIRS) and in synergy with various departments, programs and initiatives, the LAB (Luso-Afro-Brazilian Studies) is a multi-disciplinary research and teaching hub for exploring the country’s history, politics and culture, along with its regional significance and international connections.
+Spearheaded by the Princeton Insitute for International and Regional Studies (PIIRS) and in synergy with various departments, programs and initiatives, the Brazil LAB (Luso-Afro-Brazilian Studies) is a multi-disciplinary research and teaching hub for exploring the country’s history, politics and culture, along with its regional significance and international connections.
 
 [Brazil LAB Profile](https://brazillab.princeton.edu/people/daniel-persia)
 
-## Authored News Articles
+**Authored News Articles**
 
 **10-27-23** <br>
 [Changing Perspective(s): Torto Arado](https://brazillab.princeton.edu/news/changing-perspectives-brazilian-writer-itamar-vieira-junior-torto-arado)
