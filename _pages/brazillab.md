@@ -17,7 +17,7 @@ Spearheaded by the Princeton Insitute for International and Regional Studies (PI
 **10-27-23** <br>
 [Changing Perspective(s): Torto Arado](https://brazillab.princeton.edu/news/changing-perspectives-brazilian-writer-itamar-vieira-junior-torto-arado)
 
-Itamar Vieria Junior
+Itamar Vieira Junior
 
 **10-21-23** <br>
 [Climate Change and Brazil's Conservation Frontiers](https://brazillab.princeton.edu/news/climate-change-and-brazils-conservation-frontiers)
