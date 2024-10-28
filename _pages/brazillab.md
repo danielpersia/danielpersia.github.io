@@ -88,6 +88,7 @@ Djamila Ribeiro <br>
 
 ![](/images/lima.jpg)
 
+<h1 style="font-size: value;"> Image credit: Lima Barreto (2017) by Dalton Paula </h1>
 Image credit: Lima Barreto (2017) by Dalton Paula
 
 >“What was gnawing at me was the silence” 
