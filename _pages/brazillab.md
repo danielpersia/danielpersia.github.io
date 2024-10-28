@@ -8,7 +8,7 @@ featured_image: '/images/jaider.jpg'
 
 ![](/images/jaider.jpg)
 
-Spearheaded by the Princeton Insitute for International and Regional Studies (PIIRS) and in synergy with various departments, programs and initiatives, the Brazil LAB (Luso-Afro-Brazilian Studies) is a multi-disciplinary research and teaching hub for exploring the country’s history, politics and culture, along with its regional significance and international connections.
+Spearheaded by the Princeton Insitute for International and Regional Studies (PIIRS) and in synergy with various departments, programs and initiatives, the Brazil LAB (Luso-Afro-Brazilian Studies) is a multi-disciplinary research and teaching hub for exploring the country’s history, politics and culture, along with its regional significance and international connections.<sup>1<sup>
 
 [Brazil LAB Profile](https://brazillab.princeton.edu/people/daniel-persia)
 
@@ -94,9 +94,14 @@ Djamila Ribeiro <br>
 
 Hearing Lima is an invitation to revisit the life and work of Brazilian writer Lima Barreto upon the centennial of his death in November 1922.
 
-Throughout 2022, renowned artists, writers and researchers, black men and women of various nationalities, will read excerpts of his work, giving body and voice to a modernist who has long been excluded and silenced— but who remains extremely relevant today. Marking 100 years since Brazilian Modern Art Week, this is also an opportunity to revisit a writer from Rio de Janeiro who was left out of the predominant São Paulo scene. Organized by the Brazil LAB and Companhia das Letras, Hearing Lima seeks to share Lima Barreto’s legacy through video, image and text in a publicly accessible, bilingual format.
+Throughout 2022, renowned artists, writers and researchers, black men and women of various nationalities, will read excerpts of his work, giving body and voice to a modernist who has long been excluded and silenced— but who remains extremely relevant today. Marking 100 years since Brazilian Modern Art Week, this is also an opportunity to revisit a writer from Rio de Janeiro who was left out of the predominant São Paulo scene. Organized by the Brazil LAB and Companhia das Letras, Hearing Lima seeks to share Lima Barreto’s legacy through video, image and text in a publicly accessible, bilingual format.<sup>2<sup>
 
 <a href="https://www.espalhelima.com.br/en/" class="button button--large">Go to project site</a>
 
-Images: Um povo sagrado ninguém pode vencer (2021) by Jaider Esbell; Lima Barreto (2017) by Dalton Paula
+<br>
+Images: 
+<br>
+1. Um povo sagrado ninguém pode vencer (2021) by Jaider Esbell
+<br>
+2. Lima Barreto (2017) by Dalton Paula
 
