@@ -111,7 +111,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 ## Professional Editing 
 <br>
-[“Não digam que estamos mortos”](https://bazardotempo.com.br/loja/nao-digam-que-estamos-mortos/) by Danez Smith, translated by André Capilé. Bazar do Tempo, Rio de Janeiro, Brazil, November 2020. 
+[*Não digam que estamos mortos*](https://bazardotempo.com.br/loja/nao-digam-que-estamos-mortos/) by Danez Smith, translated by André Capilé. Bazar do Tempo, Rio de Janeiro, Brazil, November 2020. 
 
 [“‘If we don’t name ourselves, who’s gonna name us?’: Hablando de tudo um pouco con Ofelia García.”](https://revistas.unicentro.br/index.php/revista_interfaces/article/view/6140/4451) Interview with Ofelia García, conducted by Alejandro Nestor Lorenzetti and Jhuliane Evelyn da Silva. *Revista Interfaces*, Universidade Estadual do Centro-Oeste—UNICENTRO, Brazil, 2020. 
 
