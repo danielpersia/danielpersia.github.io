@@ -13,11 +13,13 @@ Hello / hola / olá!
 
 I'm so glad you've found my site. I'm a writer and translator from Spanish and Portuguese. I've lived and worked across the US, UK, Spain, Brazil and Kenya, among other places. Language shapes who I am and how I think about the world.  
 
-Multilingualism is key to becoming better active listeners, building stronger teams, and embracing diverse perspectives. When we extend ourselves beyond our first languages, we step into a vulnerability that values other ways of thinking and doing. With over a decade of experience in teaching and learning, ranging from K-20 education to industry and non-profits, I've developed a set of best practices to lead creatively, with intention, across cultures.  
+Multilingualism empowers us to become better active listeners, build stronger teams, and embrace diverse perspectives. When we extend ourselves beyond our first languages, we step into a vulnerability that values other ways of thinking and doing. With over a decade of experience in teaching and learning, ranging from K-20 education to industry and non-profits, I've developed a set of best practices to lead creatively, with intention, across cultures.  
 
-I hope my portfolio invites you to reach out- and to share more about your ongoing projects. I'm open to writing, editing and translation jobs (all genres), speaking engagements, and creative collaborations. I also welcome consulting in any context (non-profit, industry, education, etc.) where learning and development are fundamental to driving team success and innovation.
+I've collaborated with a range of public and private institutions, including: the US-UK Fulbright Commission, the US-Brazil Fulbright Commission, the National Science Foundation, the Education Development Center, the Institute of Advanced Studies, and Princeton University (International Affairs & Operations, Center for Digital Humanities, Program in Latin American Studies and Program in Translation & Intercultural Communication, among others). 
 
-Hope to work with you soon! 
+I hope you'll read my portfolio as an invitation to connect- and to share more about your ongoing goals and projects. I'm open to writing, editing and translation jobs (all genres), speaking engagements, and creative collaborations. I also welcome consulting in any context (non-profit, industry, education, etc.) where learning and development are fundamental to driving team success and innovation.
+
+Hope to work together soon! 
 
 Best / abrazos / abraços, 
 
