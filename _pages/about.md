@@ -24,8 +24,4 @@ Best / abrazos / abraços,
 Danny 
 
 
----
-
-CV
-
 
