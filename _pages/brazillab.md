@@ -87,7 +87,7 @@ Djamila Ribeiro <br>
 ## Espalhe Lima / Hearing Lima 
 
 ![](/images/lima.jpg)
-<small>*Image credit: Lima Barreto (2017) by Dalton Paula*
+<small>Image credit: Lima Barreto (2017) by Dalton Paula
 
 >“What was gnawing at me was the silence” 
 
