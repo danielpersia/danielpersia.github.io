@@ -12,6 +12,8 @@ Spearheaded by the Princeton Insitute for International and Regional Studies (PI
 
 [Brazil LAB Profile](https://brazillab.princeton.edu/people/daniel-persia)
 
+<h6 style="font-size: value;"> Image: Um povo sagrado ninguém pode vencer (2021) by Jaider Esbell </h6>
+
 ## Authored News Articles
 
 **10-27-23** <br>
@@ -88,8 +90,6 @@ Djamila Ribeiro <br>
 
 ![](/images/lima.jpg)
 
-<h6 style="font-size: value;"> Image credit: Lima Barreto (2017) by Dalton Paula </h6>
-
 >“What was gnawing at me was the silence” 
 
 ## About the project
@@ -99,3 +99,6 @@ Hearing Lima is an invitation to revisit the life and work of Brazilian writer L
 Throughout 2022, renowned artists, writers and researchers, black men and women of various nationalities, will read excerpts of his work, giving body and voice to a modernist who has long been excluded and silenced— but who remains extremely relevant today. Marking 100 years since Brazilian Modern Art Week, this is also an opportunity to revisit a writer from Rio de Janeiro who was left out of the predominant São Paulo scene. Organized by the Brazil LAB and Companhia das Letras, Hearing Lima seeks to share Lima Barreto’s legacy through video, image and text in a publicly accessible, bilingual format.
 
 <a href="https://www.espalhelima.com.br/en/" class="button button--large">Go to project site</a>
+
+<h6 style="font-size: value;"> Image: Lima Barreto (2017) by Dalton Paula </h6>
+
