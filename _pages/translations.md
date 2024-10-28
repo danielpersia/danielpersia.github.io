@@ -117,7 +117,8 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 “The Challenge of Innovation for Third Sector Organizations” by Ricardo Neves, Ashoka: Innovators for the Public, May 2019. 
 
-[“The Connection Between Logic and Law: An Interview with Professor Elena Lisanyuk.”](https://www.google.com/search?client=safari&rls=en&q=The+Connection+Between+Logic+and+Law%3A+An+Interview+with+Professor+Elena+Lisanyuk&ie=UTF-8&oe=UTF-8) Interview conducted by Natalina Stamile, PhD in Legal Theory and European Legal Order, Magna Graecia University, Catanzaro, Italy. Revista da Faculdade de Direito—UFPR. Federal University of Paraná, Curitiba, Brazil. Sep/Dec 2018. 
+
+[“The Connection Between Logic and Law: An Interview with Professor Elena Lisanyuk.”](https://revistas.ufpr.br/direito/article/download/62286/37393) Interview conducted by Natalina Stamile, PhD in Legal Theory and European Legal Order, Magna Graecia University, Catanzaro, Italy. Revista da Faculdade de Direito—UFPR. Federal University of Paraná, Curitiba, Brazil. Sep/Dec 2018. 
 
 [“A Discussion on Legal Philosophy in Russia with Professor Mikhail Antonov.”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj_q8mfleH9AhVYjIkEHTc7BzoQFnoECAUQAQ&url=https%3A%2F%2Frevistas.ufpr.br%2Fdireito%2Farticle%2Fdownload%2F59369%2F35979&usg=AOvVaw0h_gvEGSE36xvC0k4qKMsz) Interview conducted by Natalina Stamile. Revista da Faculdade de Direito—UFPR. Federal University of Paraná, Curitiba, Brazil. May/August 2018. 
 
