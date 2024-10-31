@@ -99,7 +99,7 @@ Throughout 2022, renowned artists, writers and researchers, black men and women 
 <a href="https://www.espalhelima.com.br/en/" class="button button--large">Go to project site</a>
 
 <br>
-Images: 
+Artwork credits: 
 <br>
 1. Um povo sagrado ninguém pode vencer (2021) by Jaider Esbell
 <br>
