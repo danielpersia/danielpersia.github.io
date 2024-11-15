@@ -2,7 +2,7 @@
 title: 'Brazil LAB'
 subtitle: 'Journalism / News / Dispatch'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Publications and projects with Princeton's Brazil LAB.
 featured_image: '/images/jaider.jpg'
 ---
 
