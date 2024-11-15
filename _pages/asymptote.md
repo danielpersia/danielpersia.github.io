@@ -2,7 +2,7 @@
 title: 'Asymptote'
 subtitle: 'Asymptote Journal'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Publications in Asymptote Journal.
 featured_image: '/images/asymptote.jpg'
 ---
 
