@@ -1,7 +1,7 @@
 ---
 title: Translations 
 subtitle: Translations / Traducciones / Traduções
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+description: Published translations.
 featured_image: /images/writings.jpg
 ---
 
