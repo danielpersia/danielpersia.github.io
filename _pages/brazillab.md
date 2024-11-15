@@ -34,6 +34,11 @@ Ilona Szabó, Brian Winter and Deborah Yashar
 
 Katrina Dodson and Flora Thomson-DeVeaux
 
+**5-1-23** <br> 
+[Cultivation without Domestication? Urbanization without Cities? Ancient Amazonia](https://brazillab.princeton.edu/news/cultivation-without-domestication-urbanization-without-cities-neves-levis-and-fausto-ancient)
+
+Eduardo Neves, Carolina Levis and Carlos Fausto
+
 **2-23-23** <br>
 [Democracy in the Making: President Lula da Silva Visits *Brasil futuro* Exhibition at Brasília’s National Museum of the Republic](https://brazillab.princeton.edu/news/democracy-making-president-lula-da-silva-visits-brasil-futuro-exhibition-bras%C3%ADlia’s-national#:-:text=daniel%20persia) <br>
 
@@ -54,12 +59,12 @@ Artionka Capiberibe, Ronaldo de Almeida and Isadora Lins França <br>
 
 Carlos Fausto and Anne McClintock <br>
 
-**11-9-2021** <br> 
+**11-9-21** <br> 
 [Enciclopédia Negra: A Book Forum](https://brazillab.princeton.edu/news/enciclopedia-negra-book-forum-igi-ayedun-jaime-lauriano-and-lilia-m-schwarcz)<br>
 
 Igi Ayedun, Jaime Lauriano and Lilia M. Schwarcz <br>
 
-**10-11-2021** <br>
+**10-11-21** <br>
 [Pandemic Inequalities in the US and Brazil](https://brazillab.princeton.edu/news/sir-angus-deaton-and-ricardo-paes-de-barros-pandemic-inequalities-us-and-brazil)<br>
 
 Sir Angus Deaton and Ricardo Paes de Barros <br>
