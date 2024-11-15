@@ -46,7 +46,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [*Writings*](https://shop.museochillidaleku.com/en-us/products/escritos) by Eduardo Chillida. La Fábrica and Hauser & Wirth. Chillida Leku. 2016 / 2019 / 2023. 
 
-[*Masaveu Collection: From Romanesque to Enlightenment*](https://www.youtube.com/watch?v=m-LImZQpQ8M). Image and Material. Fundación María Cristina Masaveu Peterson. Colección Masaveu. Madrid. 2013. 
+[*Masaveu Collection: From Romanesque to Enlightenment. Image and Material*](https://www.youtube.com/watch?v=m-LImZQpQ8M). Fundación María Cristina Masaveu Peterson. Colección Masaveu. Madrid. 2013. 
 
 
 ## Poetry
