@@ -29,7 +29,7 @@ Featured:
 
 [Fellowship Spotlight: Nuances of Global Partnerships Revealed at Mpala Research Centre](https://gradfutures.princeton.edu/news/2023/fellowship-spotlight-nuances-global-partnerships-revealed-mpala-research-centre). April 2024. 
 
-[Translating Beyond the Academy]([https://www.google.com/search?client=safari&rls=en&q=translating+beyond+the+academy+princeton&ie=UTF-8&oe=UTF-8](https://ptic.princeton.edu/news-announcements/translating-beyond-academy)). April 2023. 
+[Translating Beyond the Academy](https://ptic.princeton.edu/news-announcements/translating-beyond-academy). April 2023. 
 
 [Arcadio Diáz-Quiñones Prize for Excellence in Teaching](https://spo.princeton.edu/news/grad-students-you-jin-kim-and-daniel-persia-are-recognized-excellence-teaching). April 2023. 
 
