@@ -9,8 +9,6 @@ featured_image: /images/writings.jpg
 
 ![](/images/writings.jpg)
 
-Throughout his career, Eduardo Chillida never stopped questioning everything relevant to his commitment to art. Without intending to create a deliberation parallel to his work, he used writing as a way to keep his thoughts, using notebooks, fragments of paper, and margins of drawings. He did so intermittently, without a pre-established order. They were intimate reflections, handwritten for his own use, destined to preserve the questions to which he repeatedly returned.
-
 Find *Writings* by Eduardo Chillida at...<br>
 
 [Hauser & Wirth](https://shop.hauserwirth.com/products/eduardo-chillida-writings)<br>
@@ -20,6 +18,8 @@ Find *Writings* by Eduardo Chillida at...<br>
 [Chillida Leku](https://shop.museochillidaleku.com/en-us/products/escritos?variant=42495144689854) <br>
 
 [Amazon](https://www.amazon.com/Eduardo-Chillida-Writings/dp/8417769102) <br>
+
+Throughout his career, Eduardo Chillida never stopped questioning everything relevant to his commitment to art. Without intending to create a deliberation parallel to his work, he used writing as a way to keep his thoughts, using notebooks, fragments of paper, and margins of drawings. He did so intermittently, without a pre-established order. They were intimate reflections, handwritten for his own use, destined to preserve the questions to which he repeatedly returned.
 
 <hr>
 
