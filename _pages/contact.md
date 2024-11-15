@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle: I would love to hear from you.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+description: Contact form.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
