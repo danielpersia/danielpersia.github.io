@@ -31,8 +31,11 @@ Ellen has stopped talking. She thinks she may have killed her dad. Her brother�
 
 [*Arid Dreams*](https://www.asymptotejournal.com/blog/2019/04/15/whats-new-in-translation-april-2019/) by Duanwad Pimwana, translated by Mui Poopoksakul (Feminist Press, 2019)
 
+In thirteen stories that investigate ordinary and working-class Thailand, characters aspire for more but remain suspended in routine. They bide their time, waiting for an extraordinary event to end their stasis. A politician’s wife imagines her life had her husband’s accident been fatal, a man on death row requests that a friend clear up a misunderstanding with a sex worker, and an elevator attendant feels himself wasting away while trapped, immobile, at his station all day.
 
 [*Wind and Wood...*](https://www.asymptotejournal.com/blog/2019/11/13/wind-and-wood-and-word-sonnets-toward-a-multilingual-tradition-in-translation/) by Seymour Mayne, quadrilingual edition (Malisia Editorial, 2018)
+
+Quadriliingual Edition of word sonnets (English, Spanish, French and Portuguese). The second sequence of Mayne’s larger collection, *Cusp: Word Sonnets (2014)*, which marked fifty years since his poetry first appeared in Montreal.  
 
 ## Interviews
 
