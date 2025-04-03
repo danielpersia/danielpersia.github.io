@@ -61,7 +61,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [[diptych] an artist needs concrete problems](https://exchanges.uiowa.edu/issues/enclosures/diptych/) by Julia de Souza, *Exchanges*, May 2020.  
 
-["Trans-R Existence in Brazil"](https://artememoria.org/article/trans-r-existence-in-brazil/) by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
+"Trans-R Existence in Brazil" by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
 
 
 ## Fiction 
@@ -81,9 +81,9 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [Criticism with a Soul](https://piaui.folha.uol.com.br/materia/criticism-with-soul/) Pedro Meira Monteiro 
 
-["The Pains and Pleasures of a Social Activist"](https://artememoria.org/article/the-pains-and-pleasures-of-a-social-activist/) by Beatriz Amaro, *Artememoria*, Nov 2018.
+"The Pains and Pleasures of a Social Activist" by Beatriz Amaro, *Artememoria*, Nov 2018.
 
-["Self-Exile: Sometimes the Only Way to Return Is to Leave"](https://artememoria.org/article/self-exile-sometimes-the-only-way-to-return-is-to-leave/) Book Review of Tatiana Salem Levy's *A chave de casa/ The House of Smyrna* by Izabel Fontes, *Artememoria*, Nov 2018. 
+"Self-Exile: Sometimes the Only Way to Return Is to Leave." Book Review of Tatiana Salem Levy's *A chave de casa/ The House of Smyrna* by Izabel Fontes, *Artememoria*, Nov 2018. 
 
 ## Peer-Reviewed Journal Articles
 <br>
