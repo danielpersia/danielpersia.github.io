@@ -7,6 +7,7 @@ featured_image: '/images/jaider.jpg'
 ---
 
 I write, edit and translate for a variety of news outlets and publications. I gravitate to initaitves that bring local and global perspectives into conversation. I have a passion for generating thought leadership through community events, in dialogue with participants and presenters. 
+<br>
 
 # Brazil LAB 
 
