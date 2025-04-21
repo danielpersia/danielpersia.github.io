@@ -1,5 +1,5 @@
 ---
-title: Welcome 
+title: Welcome! 
 subtitle: 
 description: Welcome
 featured_image: /images/about-bw-landscape.jpeg
