@@ -9,7 +9,7 @@ permalink: /
 
 ![](/images/Persia.jpeg) 
 
-## I'm a trilingual writer, storyteller and public speaker. 
+I'm a trilingual writer, storyteller and public speaker. 
 
 I spend my time thinking about how emotional intelligence, empathy, and intercultural communication can redfine teambuilding and team success in both the non-profit and corporate sectors. 
 
