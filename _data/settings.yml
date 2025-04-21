@@ -9,8 +9,10 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Welcome'
+      url: '/welcome'
     - title: 'About'
-      url: '/'
+      url: '/about'
     - title: 'Translations'
       url: '/translations'   
     - title: 'Writing'
