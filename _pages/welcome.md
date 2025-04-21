@@ -1,7 +1,7 @@
 ---
-title: About 
+title: Welcome 
 subtitle: 
-description: About
+description: Welcome
 featured_image: /images/about-bw-landscape.jpeg
 permalink: /
 ---
