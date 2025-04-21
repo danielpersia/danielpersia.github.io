@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 description: Publications
 featured_image: '/images/jaider.jpg'
 ---
-I write, edit and translate for a variety of news outlets and publications. I am particularly drawn to initaitves that bring local and global perspectives into conversation. I have a passion for generating thought leadership through community events, in dialogue with participants and presenters. 
+I write, edit and translate for a variety of news outlets and publications. I look for (1) initaitves that bring local and global ideas into conversation, (2) projects that challenge the way we think about language and identity, and (3) events that foreground  the perspectives of historically marginalized communities. I have a passion for generating thought leadership through community events, in dialogue with participants and presenters. 
 <br>
 
 ## Brazil LAB 
