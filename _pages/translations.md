@@ -1,5 +1,5 @@
 ---
-title: Translations 
+title: Translation 
 subtitle: Translations / Traducciones / Traduções
 description: Published translations.
 featured_image: /images/writings.jpg
