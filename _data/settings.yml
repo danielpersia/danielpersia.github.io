@@ -13,7 +13,7 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Translations'
+    - title: 'Translation'
       url: '/translations'   
     - title: 'Writing'
       url: '/writing' 
