@@ -192,6 +192,11 @@ Italian writer Igiaba Scego headlines Brazil's *Litercultura* festival.
 
 Brazil's 17th Annual International Literary Festival of Paraty. 
 
+## Looking for a writer? 
+
+Feel free to contact me - I'd love to work with you!
+
+
 Artwork credits: 
 <br>
 1. Um povo sagrado ninguém pode vencer (2021) by Jaider Esbell
