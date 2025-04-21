@@ -8,19 +8,21 @@ featured_image: /images/about-bw-landscape.jpeg
 
 ![](/images/Persia.jpeg) 
 
-Hello / Hola / Olá! 
+Daniel (Danny) Persia is an educator and interdisciplinary collaborator with expertise in local/global engagement, team facilitation, and public speaking. His thematic interests include the arts, racial equity, language and technology. Danny brings a systems thinking approach to organizational development and is committed to long-term vision, sustainability and impact. 
 
-I'm so glad you've found my site. I write and translate from Spanish and Portuguese. Language shapes who I am and how I think about the world.  
+Recently, Danny served as a Reserach Fellow for Princeton University's Brazil LAB (Luso-Afro-Brazilian), a multidsiciplinary teaching and research hub focused on environmentalism, racialized frontiers, and decolongizing/indigenizing the arts. His international leadership extends to central Kenya, where he has led communications, fundraising and donor management for the Mpala Research Centre and Mpala Wildlife Foundation - a non-profit partnership between Princeton, the Smithsonian, and various Kenyan institutions that promotes education and conservation across 48,000 acres of protected land. Data access and equity have been fundamental to his leadership as a 
 
-When we extend ourselves beyond our first languages, we step into a vulnerability that values other ways of saying, thinking and doing. With over a decade of experience in teaching and learning, ranging from K-20 education to industry and non-profits, I've developed a set of best practices to lead creatively, with intention, across cultures. I've lived and worked across the US, UK, Spain, Brazil and Kenya, among other places.
+Prior to his work with Princeton, Danny served as Regional Lead for the US-Brazil Fulbright Commission, overseeing grantees across six public and private institutions in São Paulo and Paraná. Based in Curitiba, he played an active role in developing Brazil's first Writing Center at the Federal University of Paraná and bringing the model to additional cities such as Porto Alegre and Caixias do Sul. 
 
-I hope you'll read my portfolio as an invitation to connect. I'm open to writing, editing and translation jobs (all genres), speaking engagements, and creative collaborations. I also welcome facilitation and consulting in any context where learning is fundamental to driving team success and innovation.
+Danny began his career as a K-12 educator at the Boston Arts Academy, Boston's only full-inclusion public high school for the visual and performing arts. As a National Science Foundation Noyce Teaching Fellow, he led curriculum development for discrete mathematics and statistics, implementing Universal Design for Learning (UDL) and Growth Mindset to better engage artists through technology. In collaboration with Math for America, the Education Development Center, and the Insititute for Advanced Study, Danny has contributed to a growing body of research on inquiry-based learning and learner-centered curriculum design.  
 
-Hope to work together soon! 
+Trilingual in Spanish and Portuguese, Danny has long been an advocate for multilingual education. Through active collaboration with interpreters and deep engagement with Apple's accessibility features as a Creative, he has developed a toolkit for more inclusive instructional design. He holds a certificate in Teaching English Language Learners (TELL) from Boston College and has completed  coursework in Implementing Inclusive Education through Harvard's Graduate School of Education. 
 
-Best / abrazos / abraços, 
 
-Danny 
+
+
+
+
 
 ---
 
