@@ -9,7 +9,7 @@ featured_image: '/images/jaider.jpg'
 I write, edit and translate for a variety of news outlets and publications. I gravitate to initaitves that bring local and global perspectives into conversation. I have a passion for generating thought leadership through community events, in dialogue with participants and presenters. 
 <br>
 
-### Brazil LAB 
+## Brazil LAB 
 
 ![](/images/jaider.jpg)
 
@@ -108,13 +108,13 @@ Throughout 2022, renowned artists, writers and researchers, black men and women 
 
 <br>
 
-# Asymptote Journal
+## Asymptote Journal
 
 ![](/images/Asymptote.jpg)
 
 Winner of the 2015 London Book Fair's International Literary Translation Initiative Award, [*Asymptote*](https://www.asymptotejournal.com) is the premier site for world literature in translation. We take our name from the dotted line on a graph that a mathematical function may tend toward, but never reach. Similarly, a translated text may never fully replicate the effect of the original; it is its own creative act.
 
-## Book Reviews
+### Book Reviews
 
 [*Minor Detail*](https://www.asymptotejournal.com/blog/2020/05/28/announcing-our-may-book-club-selection-minor-detail-by-adania-shibli/) by Adania Shibli, translated by Elisabeth Jaquette (New Directions, 2020)
 
@@ -140,7 +140,7 @@ In thirteen stories that investigate ordinary and working-class Thailand, charac
 
 Quadriliingual collection of word sonnets (English, Spanish, French and Portuguese). The second sequence of Mayne’s larger collection, *Cusp: Word Sonnets (2014)*, which marked fifty years since his poetry first appeared in Montreal.  
 
-## Interviews
+### Interviews
 
 [Textual Echoes: Elisabeth Jacquette on Translating Adania Shibli's *Minor Detail*](https://www.asymptotejournal.com/blog/2020/06/25/textual-echoes-elisabeth-jacquette-on-translating-adania-shiblis-minor-detail/)
 
@@ -152,7 +152,7 @@ When I first met Cidinha da Silva, I had just begun translating *Sobre-viventes!
 
 Exuzilhamento is indeed a driving force of Cidinha’s work, which, as she reveals here, “revolves around Africanities, Orixalities, Ancestralities, and the tension and dialogue between tradition (African, Afro-Brazilian, Afro-Diasporic, and Afro-Indigenous) and contemporaneity.” This interview showcases the complexity of Cidinha’s creative process and her critical place in contemporary Brazilian literature.
 
-## Around the World Dispatches
+### Around the World Dispatches
 
 Weekly dispatches from the front lines of world literature.
 
