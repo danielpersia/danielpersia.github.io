@@ -3,7 +3,6 @@ title: About
 subtitle: 
 description: About
 featured_image: /images/about-bw-landscape.jpeg
-permalink: /
 ---
 
 
