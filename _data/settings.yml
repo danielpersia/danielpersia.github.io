@@ -16,9 +16,7 @@ menu_settings:
     - title: 'Translations'
       url: '/translations'   
     - title: 'Writing'
-      url: '/writing'
-    - title: 'Asymptote'
-      url: '/asymptote'   
+      url: '/writing' 
     - title: 'Contact'
       url: '/contact'
 
