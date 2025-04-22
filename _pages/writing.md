@@ -194,7 +194,9 @@ Brazil's 17th Annual International Literary Festival of Paraty.
 
 ### Visual Dispatches
 
-August 2019: Reporting from the 17th Annual International Literary Festival of Paraty.
+[August 2019](images/Asymptote_VisualDispatch.pdf)
+
+Reporting from the 17th Annual International Literary Festival of Paraty.
 
 ## Looking for a writer? 
 
