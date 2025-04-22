@@ -128,7 +128,9 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 U.S. Department of Energy Solar Decathlon: Paraná Team, Piraquara School. Building a Sustainable School, Elementary Division. Federal University of Paraná. 2019. 
 
-For more on the project: [UFPR article (in Portuguese)](https://ufpr.br/escola-mais-sustentavel-projetada-pela-ufpr-com-tecnologia-inedita-deve-ser-construida-em-piraquara/) and [3D school rendering](https://www.youtube.com/watch?v=2mwXJ2FAIv0). 
+For more about the project: [UFPR article (in Portuguese)](https://ufpr.br/escola-mais-sustentavel-projetada-pela-ufpr-com-tecnologia-inedita-deve-ser-construida-em-piraquara/) and [3D school rendering](https://www.youtube.com/watch?v=2mwXJ2FAIv0). 
+
+For more about the program: [BuildingsNEXT Student Design Challenge (formerly Solar Decathlon)](https://www.solardecathlon.gov)
 
 ## Looking for a translator? 
 
