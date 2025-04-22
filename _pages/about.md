@@ -26,7 +26,7 @@ Trilingual in Spanish and Portuguese, Danny has long been an advocate for multil
 
 ---
 
-## Featured:
+### Featured:
 
 [Fellowship Spotlight: Nuances of Global Partnerships Revealed at Mpala Research Centre](https://gradfutures.princeton.edu/news/2023/fellowship-spotlight-nuances-global-partnerships-revealed-mpala-research-centre). April 2024. 
 
