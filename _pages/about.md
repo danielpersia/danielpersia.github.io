@@ -10,7 +10,7 @@ featured_image: /images/about-bw-landscape.jpeg
 
 Daniel (Danny) Persia is an educator and interdisciplinary collaborator with expertise in local/global engagement, team facilitation, and public speaking. His thematic interests include the arts, racial equity, language and technology. Danny brings a systems thinking approach to organizational development and is committed to long-term vision, sustainability and impact. 
 
-Recently, Danny served as a Reserach Fellow for Princeton University's Brazil LAB (Luso-Afro-Brazilian), a multidsiciplinary teaching and research hub focused on environmentalism, racialized frontiers, and decolongizing/indigenizing the arts. His international leadership extends to central Kenya, where he has led communications, fundraising and donor management for the Mpala Research Centre and Mpala Wildlife Foundation - a non-profit partnership between Princeton, the Smithsonian, and various Kenyan institutions that promotes education and conservation across 48,000 acres of protected land. Data access and equity have been fundamental to his leadership as a 
+Recently, Danny served as a Reserach Fellow for Princeton University's Brazil LAB (Luso-Afro-Brazilian), a multidsiciplinary teaching and research hub focused on environmentalism, racialized frontiers, and decolongizing/indigenizing the arts. His international leadership extends to central Kenya, where he has led communications, fundraising and donor management for the Mpala Research Centre and Mpala Wildlife Foundation - a non-profit partnership between Princeton, the Smithsonian, and various Kenyan institutions that promotes education and conservation across 48,000 acres of protected land. 
 
 Prior to his work with Princeton, Danny served as Regional Lead for the US-Brazil Fulbright Commission, overseeing grantees across six public and private institutions in São Paulo and Paraná. Based in Curitiba, he played an active role in developing Brazil's first Writing Center at the Federal University of Paraná and bringing the model to additional cities such as Porto Alegre and Caixias do Sul. 
 
@@ -26,7 +26,7 @@ Trilingual in Spanish and Portuguese, Danny has long been an advocate for multil
 
 ---
 
-Featured:
+## Featured:
 
 [Fellowship Spotlight: Nuances of Global Partnerships Revealed at Mpala Research Centre](https://gradfutures.princeton.edu/news/2023/fellowship-spotlight-nuances-global-partnerships-revealed-mpala-research-centre). April 2024. 
 
