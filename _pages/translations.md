@@ -124,6 +124,12 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [“A Discussion on Legal Philosophy in Russia with Professor Mikhail Antonov.”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj_q8mfleH9AhVYjIkEHTc7BzoQFnoECAUQAQ&url=https%3A%2F%2Frevistas.ufpr.br%2Fdireito%2Farticle%2Fdownload%2F59369%2F35979&usg=AOvVaw0h_gvEGSE36xvC0k4qKMsz) Interview conducted by Natalina Stamile. Revista da Faculdade de Direito—UFPR. Federal University of Paraná, Curitiba, Brazil. May/August 2018. 
 
+## Grant Proposals 
+
+U.S. Department of Energy Solar Decathlon: Paraná Team, Piraquara School. Building a Sustainable School, Elementary Division. Federal University of Paraná. 2019. 
+
+For more on the project: [UFPR article (in Portuguese)](https://ufpr.br/escola-mais-sustentavel-projetada-pela-ufpr-com-tecnologia-inedita-deve-ser-construida-em-piraquara/) and [3D school rendering](https://www.youtube.com/watch?v=2mwXJ2FAIv0). 
+
 ## Looking for a translator? 
 
 Feel free to contact me - I'd love to work with you!
