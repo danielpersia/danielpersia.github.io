@@ -114,13 +114,17 @@ Throughout 2022, renowned artists, writers and researchers, black men and women 
 
 ### Newsletter Features 
 
-One Health at Mpala 
+[One Health at Mpala](https://mpala.org/one-health-at-mpala/) (October 2022) 
 
 ### Interviews
 
-December 2022: Early-Career Research Spotlight with Brendah Nyaguthli 
+Early-Career Research Spotlight with Brendah Nyaguthli (December 2022)
 
-October 2022: Early-Career Research Spotlight with Ivy Ng'iru 
+[Early-Career Research Spotlight](https://danielpersia.github.io/images/Mpala_Interview_Ivy.pdf) with Ivy Ng'iru (October 2022)
+
+
+
+
 
 
 ## Asymptote Journal
