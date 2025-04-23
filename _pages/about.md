@@ -6,7 +6,7 @@ featured_image: /images/about-bw-landscape.jpeg
 ---
 
 
-![](/images/Persia.jpeg) 
+![](/images/Persia2.jpeg) 
 
 Daniel (Danny) Persia is an educator and interdisciplinary collaborator with expertise in local/global engagement, team facilitation, and public speaking. His thematic interests include education, the arts, racial equity, language and technology. Danny brings a systems thinking approach to organizational development and is committed to long-term vision, sustainability and community impact. 
 
