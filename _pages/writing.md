@@ -5,9 +5,16 @@ date: 2018-06-30 00:00:00
 description: Publications
 featured_image: '/images/jaider.jpg'
 ---
-I write for several media outlets and organizations. I look for **(1) initaitves that bring local and global ideas into conversation, (2) projects that challenge the way we think about language and identity,** and **(3) events that foreground the perspectives of historically marginalized communities.** I have a passion for generating thought leadership through community events, in dialogue with participants and presenters. 
-<br>
-<br>
+I write for a variety of news outlets and organizations. I'm compelled by: 
+
+1. initaitves that bring local and global ideas into conversation
+2. projects that challenge our thinking about language and identity
+3. dialgoues that foreground the perspectives of historically marginalized communities 
+
+I have a passion for generating thought leadership through community events, in partnership with participants and presenters. 
+
+<hr>
+
 
 ## Brazil LAB 
 
