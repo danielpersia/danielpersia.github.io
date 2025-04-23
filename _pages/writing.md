@@ -108,6 +108,21 @@ Throughout 2022, renowned artists, writers and researchers, black men and women 
 
 <br>
 
+## Mpala Research Centre
+
+![](/images/Mpala.jpg)
+
+### Newsletter Features 
+
+One Health at Mpala 
+
+### Interviews
+
+December 2022: Early-Career Research Spotlight with Brendah Nyaguthli 
+
+October 2022: Early-Career Research Spotlight with Ivy Ng'iru 
+
+
 ## Asymptote Journal
 
 ![](/images/Asymptote.jpg)
