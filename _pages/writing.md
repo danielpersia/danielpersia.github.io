@@ -106,7 +106,7 @@ Throughout 2022, renowned artists, writers and researchers, black men and women 
 
 <a href="https://www.espalhelima.com.br/en/" class="button button--large">Go to project site</a>
 
-<br>
+<hr>
 
 ## Mpala Research Centre
 
@@ -125,6 +125,7 @@ Early-Career Research Spotlight with Brendah Nyaguthli (December 2022)
 
 
 
+<hr>
 
 
 ## Asymptote Journal
