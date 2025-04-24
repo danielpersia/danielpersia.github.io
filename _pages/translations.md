@@ -90,7 +90,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 ["State, Economy and Development in Kenya"](https://books.openedition.org/africae/2420?lang=en) by Hervé Maupeu, *Kenya in Motion 2000-2020*, Paris & Nairobi: Africae, 2021. In collaboration with the United Nations. With Devon Winters and Ana de Oliveira.  
 
-[“The Challenge of Innovation for Third Sector Organizations”](https://danielpersia.github.io/images/images/Neves_ThinkOutsidetheBox.pdf) by Ricardo Neves, *Time to Think Outside the Box: The Great Transformation of Organizations toward the Knowledge Economy*, Elsevier, 2009. Ashoka: Innovators for the Public, English Translation May 2019. 
+[“The Challenge of Innovation for Third Sector Organizations”](https://danielpersia.github.io/images/Neves_ThinkOutsidetheBox.pdf) by Ricardo Neves, *Time to Think Outside the Box: The Great Transformation of Organizations toward the Knowledge Economy*, Elsevier, 2009. Ashoka: Innovators for the Public, English Translation May 2019. With Rossana Uessugui. 
 
 ## Peer-Reviewed Journal Articles
 <br>
