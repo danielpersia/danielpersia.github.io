@@ -118,9 +118,11 @@ Mpala Research Centre was established in November 1994 at the core of the Ewaso 
 
 Mpala’s institutional mission is to support research that improves ecosystem functions, conserves biodiversity, and enhances the livelihood of employees and their families who are predominantly traditional pastoralists. In conjunction with this mission, Mpala works to advance the understanding and conservation of natural human-occupied ecosystems through basic research, education, outreach, and by creating new scientific knowledge and developing science-based solutions to guide conservation actions for the benefit of nature and human welfare.
 
-### Newsletter Features 
+### Features 
 
 [One Health at Mpala](https://mpala.org/one-health-at-mpala/) (October 2022) 
+
+The Smithsonian Conservation Biology Institute’s Global Health Program is based on the One Health platform, which recognizes that the health of the environment, humans, and animals, both wild and domestic, are inextricably linked. Working in Kenya for over 20 years, the program has embraced a multidisciplinary approach to investigating problems and solutions associated with this reality, bringing together students, post-doctoral fellows, and research scientists from all over the world.
 
 ### Interviews
 
