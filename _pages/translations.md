@@ -86,6 +86,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 "Self-Exile: Sometimes the Only Way to Return Is to Leave." Book Review of Tatiana Salem Levy's *A chave de casa/ The House of Smyrna* by Izabel Fontes, *Artememoria*, Nov 2018. 
 
 ## Book Chapters
+<br>
 
 ["State, Economy and Development in Kenya"](https://books.openedition.org/africae/2420?lang=en) by Hervé Maupeu, *Kenya in Motion 2000-2020*, Paris & Nairobi: Africae, 2021. In collaboration with the United Nations. With Devon Winters and Ana de Oliveira.  
 
