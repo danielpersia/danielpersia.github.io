@@ -85,6 +85,12 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 "Self-Exile: Sometimes the Only Way to Return Is to Leave." Book Review of Tatiana Salem Levy's *A chave de casa/ The House of Smyrna* by Izabel Fontes, *Artememoria*, Nov 2018. 
 
+## Book Chapters
+
+["State, Economy and Development in Kenya"](https://books.openedition.org/africae/2420?lang=en) by Hervé Maupeu, *Kenya in Motion 2000-2020*, Paris & Nairobi: Africae, 2021. In collaboration with the United Nations. With Devon Winters and Ana de Oliveira.  
+
+[“The Challenge of Innovation for Third Sector Organizations”](https://danielpersia.github.io/images/images/Neves_ThinkOutsidetheBox.pdf) by Ricardo Neves, *Time to Think Outside the Box: The Great Transformation of Organizations toward the Knowledge Economy*, Elsevier, 2009. Ashoka: Innovators for the Public, English Translation May 2019. 
+
 ## Peer-Reviewed Journal Articles
 <br>
 ["Opening the Social Sciences: Questioning Eurocentrism and Implementing Contextualized Open Science"](https://doi.org/10.1525/gp.2023.91203) by Fernanda Beigel, *Global Perspectives: Concepts, Methodologies, and Data Systems*, University of California Press, January 2024.
@@ -97,11 +103,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 <br>
 
 ["Social Sciences in Brazil: From a Broad Interdisciplinarity to a Restricted Interdisciplinarity"](https://doi.org/10.1525/gp.2023.87794) by Amurabi Oliveira, *Global Perspectives*, University of California Press, September 2023.
-
-["State, Economy and Development in Kenya"](https://books.openedition.org/africae/2420?lang=en) by Hervé Maupeu, *Kenya in Motion 2000-2020*, Paris & Nairobi: Africae, 2021. In collaboration with the United Nations. With Devon Winters and Ana de Oliveira.  
-
-[“The Challenge of Innovation for Third Sector Organizations”](https://danielpersia.github.io/images/images/Neves_Think Outside the Box.pdf) by Ricardo Neves, *Time to Think Outside the Box: The Great Transformation of Organizations toward the Knowledge Economy*, Elsevier, 2009. Ashoka: Innovators for the Public, English Translation May 2019. 
-
 
 ## Subtitling and Digital Platforms 
 <br>
