@@ -100,6 +100,9 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 ["State, Economy and Development in Kenya"](https://books.openedition.org/africae/2420?lang=en) by Hervé Maupeu, *Kenya in Motion 2000-2020*, Paris & Nairobi: Africae, 2021. In collaboration with the United Nations. With Devon Winters and Ana de Oliveira.  
 
+“The Challenge of Innovation for Third Sector Organizations” by Ricardo Neves, *Time to Think Outside the Box: The Great Transformation of Organizations toward the Knowledge Economy*, Elsevier, 2009. Ashoka: Innovators for the Public, English Translation May 2019. 
+
+
 ## Subtitling and Digital Platforms 
 <br>
 
@@ -116,9 +119,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 [*Não digam que estamos mortos*](https://bazardotempo.com.br/loja/nao-digam-que-estamos-mortos/) by Danez Smith, translated by André Capilé. Bazar do Tempo, Rio de Janeiro, Brazil, November 2020. 
 
 [“‘If we don’t name ourselves, who’s gonna name us?’: Hablando de tudo um pouco con Ofelia García.”](https://revistas.unicentro.br/index.php/revista_interfaces/article/view/6140/4451) Interview with Ofelia García, conducted by Alejandro Nestor Lorenzetti and Jhuliane Evelyn da Silva. *Revista Interfaces*, Universidade Estadual do Centro-Oeste—UNICENTRO, Brazil, 2020. 
-
-“The Challenge of Innovation for Third Sector Organizations” by Ricardo Neves, Ashoka: Innovators for the Public, May 2019. 
-
 
 [“The Connection Between Logic and Law: An Interview with Professor Elena Lisanyuk.”](https://revistas.ufpr.br/direito/article/download/62286/37393) Interview conducted by Natalina Stamile, PhD in Legal Theory and European Legal Order, Magna Graecia University, Catanzaro, Italy. Revista da Faculdade de Direito—UFPR. Federal University of Paraná, Curitiba, Brazil. Sep/Dec 2018. 
 
