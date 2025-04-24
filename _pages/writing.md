@@ -1,20 +1,10 @@
 ---
 title: 'Writing'
-subtitle: 'Journalism / News / Dispatch'
+subtitle: 'Journalism / Digital Media / Interviews '
 date: 2018-06-30 00:00:00
 description: Publications
 featured_image: '/images/jaider.jpg'
 ---
-I write for a variety of news outlets and organizations. I'm compelled by: 
-
-1. initaitves that bring local and global ideas into conversation
-2. projects that challenge our thinking about language and identity
-3. dialgoues that foreground the perspectives of historically marginalized communities 
-
-I have a passion for generating thought leadership through community events, in partnership with participants and presenters. 
-
-<hr>
-
 
 ## Brazil LAB 
 
@@ -112,6 +102,11 @@ Hearing Lima is an invitation to revisit the life and work of Brazilian writer L
 Throughout 2022, renowned artists, writers and researchers, black men and women of various nationalities, will read excerpts of his work, giving body and voice to a modernist who has long been excluded and silenced— but who remains extremely relevant today. Marking 100 years since Brazilian Modern Art Week, this is also an opportunity to revisit a writer from Rio de Janeiro who was left out of the predominant São Paulo scene. Organized by the Brazil LAB and Companhia das Letras, Hearing Lima seeks to share Lima Barreto’s legacy through video, image and text in a publicly accessible, bilingual format.<sup>2<sup>
 
 <a href="https://www.espalhelima.com.br/en/" class="button button--large">Go to project site</a>
+
+Artwork credits: 
+<br>
+1. Um povo sagrado ninguém pode vencer (2021) by Jaider Esbell
+2. Lima Barreto (2017) by Dalton Paula
 
 <hr>
 
@@ -229,9 +224,4 @@ Reporting from the 17th Annual International Literary Festival of Paraty.
 
 Feel free to contact me - I'd love to work with you!
 
-
-Artwork credits: 
-<br>
-1. Um povo sagrado ninguém pode vencer (2021) by Jaider Esbell
-2. Lima Barreto (2017) by Dalton Paula
 
