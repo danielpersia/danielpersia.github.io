@@ -114,6 +114,10 @@ Artwork credits:
 
 ![](/images/Mpala.jpg)
 
+Mpala Research Centre was established in November 1994 at the core of the Ewaso ecosystem, a large, geographically diverse region of central Kenya, defined by the Ewaso Ng’iro River and it’s tributaries. The region is characterised by arid and semi-arid savannahs and woodlands, having an estimated 550 bird species and 100 mammal species, including large populations of elephants and rare species, such as the Grevy’s zebra, reticulated giraffe, and African wild dog.
+
+Mpala’s institutional mission is to support research that improves ecosystem functions, conserves biodiversity, and enhances the livelihood of employees and their families who are predominantly traditional pastoralists. In conjunction with this mission, Mpala works to advance the understanding and conservation of natural human-occupied ecosystems through basic research, education, outreach, and by creating new scientific knowledge and developing science-based solutions to guide conservation actions for the benefit of nature and human welfare.
+
 ### Newsletter Features 
 
 [One Health at Mpala](https://mpala.org/one-health-at-mpala/) (October 2022) 
