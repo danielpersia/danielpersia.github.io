@@ -60,9 +60,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 [Four poems from *In the South American Capital of Pork-Lite*](https://wayback.archive-it.org/824/20240707051008/https://exchanges.uiowa.edu/issues/tether/) by Catarina Lins, *Exchanges*, December 2020.  
 
 
-
-
-[[diptych] an artist needs concrete problems](https://exchanges.uiowa.edu/issues/enclosures/diptych/) by Julia de Souza, *Exchanges*, May 2020.  
+[[diptych] an artist needs concrete problems](https://wayback.archive-it.org/824/20240707195911/https://exchanges.uiowa.edu/issues/enclosures/diptych/) by Julia de Souza, *Exchanges*, May 2020.  
 
 "Trans-R Existence in Brazil" by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
 
