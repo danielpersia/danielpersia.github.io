@@ -67,6 +67,9 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 ## Fiction 
 <br>
+
+["The Domestic Hunter"](https://www.espalhelima.com.br/text/o-cacador-domestico-english/) by Lima Barreto, *Espalhe Lima*, 2022. 
+
 ["The Day That William Bonner Cried"](https://kenyonreview.org/kr-online-issue/2020-julyaug/selections/cidinha-da-silva-342846/) by Cidinha da Silva, *Kenyon Review Online*, Jul 2020. 
 
 ["Marigô"](https://www.asymptotejournal.com/blog/2020/05/19/translation-tuesday-marigo-by-cidinha-da-silva/) by Cidinha da Silva, *Asymptote Journal*, May 2020. 
