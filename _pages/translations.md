@@ -15,7 +15,7 @@ Find *Writings* by Eduardo Chillida at...<br>
 
 [La Fábrica](https://tienda.lafabrica.com/ensayo-arte-y-fotografia/5505-writings-eduardo-chillida-9788417769109.html) <br>
 
-[Chillida Leku](https://shop.museochillidaleku.com/en-us/products/escritos?variant=42495144689854) <br>
+[Chillida Leku](https://shop.museochillidaleku.com/products/escritos) <br>
 
 [Amazon](https://www.amazon.com/Eduardo-Chillida-Writings/dp/8417769102) <br>
 
