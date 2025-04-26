@@ -57,7 +57,8 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 [Three poems](https://kenyonreview.org/kr-online-issue/2021-julyaug/selections/ana-martins-marques-763879/) by Ana Martins Marques, *Kenyon Review Online*, Jul/Aug 2021. 
 <br>
 
-[Four poems from *In the South American Capital of Pork-Lite*](https://wayback.archive-it.org/824/20240707122452/https://exchanges.uiowa.edu/issues/tether/from-in-the-south-american-capital-of-pork-lite/) by Catarina Lins, *Exchanges*, December 2020.  
+[Four poems from *In the South American Capital of Pork-Lite*](https://wayback.archive-it.org/824/20240707051008/https://exchanges.uiowa.edu/issues/tether/) by Catarina Lins, *Exchanges*, December 2020.  
+
 
 
 
