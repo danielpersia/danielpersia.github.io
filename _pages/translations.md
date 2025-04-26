@@ -1,6 +1,6 @@
 ---
 title: Translation 
-subtitle: Translations / Traducciones / Traduções
+subtitle: 
 description: Published translations.
 featured_image: /images/writings.jpg
 ---
@@ -48,7 +48,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [*Masaveu Collection: From Romanesque to Enlightenment. Image and Material*](https://www.youtube.com/watch?v=m-LImZQpQ8M). Fundación María Cristina Masaveu Peterson. Colección Masaveu. Madrid. 2013. 
 
-<hr>
 
 ## Poetry
 <br>
@@ -64,7 +63,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 "Trans-R Existence in Brazil" by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
 
-<hr>
 
 ## Fiction 
 <br>
@@ -76,7 +74,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 ["Theory of Affections"](https://www.asymptotejournal.com/blog/2019/11/19/translation-tuesday-theory-of-affections-by-luca-argel/) by Luca Argel, *Asymptote Journal*, Nov 2019. 
 
-<hr>
 
 ## Nonfiction & Essays
 <br>
@@ -89,7 +86,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 "Self-Exile: Sometimes the Only Way to Return Is to Leave." Book Review of Tatiana Salem Levy's *A chave de casa/ The House of Smyrna* by Izabel Fontes, *Artememoria*, Nov 2018. 
 
-<hr>
 
 ## Book Chapters
 <br>
@@ -98,7 +94,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [“The Challenge of Innovation for Third Sector Organizations”](https://danielpersia.github.io/images/Neves_ThinkOutsidetheBox.pdf) by Ricardo Neves, *Time to Think Outside the Box: The Great Transformation of Organizations toward the Knowledge Economy*, Elsevier, 2009. Ashoka: Innovators for the Public, English Translation May 2019. With Rossana Uessugui. 
 
-<hr>
 
 ## Peer-Reviewed Journal Articles
 <br>
@@ -113,7 +108,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 ["Social Sciences in Brazil: From a Broad Interdisciplinarity to a Restricted Interdisciplinarity"](https://doi.org/10.1525/gp.2023.87794) by Amurabi Oliveira, *Global Perspectives*, University of California Press, September 2023.
 
-<hr>
 
 ## Subtitling and Digital Platforms 
 <br>
@@ -126,7 +120,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [“Conversa musical com José Miguel Wisnik e Pedro Meira Monteiro”](https://www.youtube.com/watch?v=OhmrFM-v4yk) MinasMundo, October 2020. 
 
-<hr>
 
 ## Professional Editing 
 <br>
@@ -138,7 +131,6 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [“A Discussion on Legal Philosophy in Russia with Professor Mikhail Antonov.”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj_q8mfleH9AhVYjIkEHTc7BzoQFnoECAUQAQ&url=https%3A%2F%2Frevistas.ufpr.br%2Fdireito%2Farticle%2Fdownload%2F59369%2F35979&usg=AOvVaw0h_gvEGSE36xvC0k4qKMsz) Interview conducted by Natalina Stamile. Revista da Faculdade de Direito—UFPR. Federal University of Paraná, Curitiba, Brazil. May/August 2018. 
 
-<hr>
 
 ## Grant Proposals 
 
@@ -148,7 +140,6 @@ For more about the project: [UFPR article (in Portuguese)](https://ufpr.br/escol
 
 For more about the program: [BuildingsNEXT Student Design Challenge (formerly Solar Decathlon)](https://www.solardecathlon.gov)
 
-<hr>
 
 ## Looking for a translator? 
 
