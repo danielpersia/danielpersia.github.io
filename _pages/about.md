@@ -38,6 +38,8 @@ Trilingual in Spanish and Portuguese, Danny has long been an advocate for multil
 
 [End-of-Semester Reflections: Humanities Data Teaching Fellows](https://cdh.princeton.edu/blog/2021/12/26/end-of-semester-humanities-data-teaching-fellows/). December 2021. 
 
+[Magic Project Establishes New Humanities Data Teaching Fellows](https://humanities.princeton.edu/2021/05/03/magic-grants-supports-new-humanities-data-teaching-fellows/). May 2021
+
 [Meet the Inaugural Cohort of Humanities Data Teaching Fellows](https://cdh.princeton.edu/blog/2021/05/03/meet-the-inaugural-cohort-of-humanities-data-teaching-fellows/). May 2021. 
 
 [Integrantes do centro de escrita da UFPR representam Brasil em congresso nos Estados Unidos](https://ufpr.br/integrantes-do-centro-de-escrita-da-ufpr-representam-brasil-em-congresso-nos-estados-unidos/). October 2019. 
