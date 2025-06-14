@@ -85,7 +85,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 ## Nonfiction & Essays
 <br>
 
-"A Machadian Figure" by Alfredo Bosi. Forthcoming. 
+[A Machadian Figure](https://sbps.spanport.ucsb.edu/sites/default/files/sitefiles/volume/Vol_11/A%20Machadian%20Figure.pdf) by Alfredo Bosi, *Santa Barbara Portuguese Studies*, 2nd Ser., [Vol. 11](https://sbps.spanport.ucsb.edu/volume/11), "Alfredo Bosi," 2025.
 
 [Criticism with a Soul](https://piaui.folha.uol.com.br/materia/criticism-with-soul/) Pedro Meira Monteiro 
 
