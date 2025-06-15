@@ -42,7 +42,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 ## Art / Exhibitions 
 <br>
-["Oceana"](https://www.coleccionbbva.com/wp-content/uploads/2023/06/Oceana-Pablo-Neruda.pdf) by Pablo Neruda. For [Oceana. A Vision of the sea](https://aliciachillida.es/en/exhibitions/oceana-a-vision-of-the-sea-in-the-bbva-collection/). BBVA collection. Curated by Alicia Chillida. Palace of San Nicolás, Bilbao. 2023. 
+["Oceana"](https://www.coleccionbbva.com/wp-content/uploads/2023/06/Oceana-Pablo-Neruda.pdf) by Pablo Neruda. For [Oceana. A Vision of the sea](https://aliciachillida.es/en/exhibitions/oceana-a-vision-of-the-sea-in-the-bbva-collection/). [BBVA collection](https://www.coleccionbbva.com/en/exposicion_fisica/oceana-a-vision-of-the-sea-in-the-bbva-collection/). Curated by Alicia Chillida. Palace of San Nicolás, Bilbao. 2023. 
 
 [*Writings*](https://shop.museochillidaleku.com/products/escritos) by Eduardo Chillida. La Fábrica and Hauser & Wirth. Chillida Leku. 2016 / 2019 / 2023. 
 
