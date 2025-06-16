@@ -33,7 +33,7 @@ Throughout his career, Eduardo Chillida never stopped questioning everything rel
 
 [Download: ebook gratuito em português](https://www.freddigiacomo.com.br/_files/ugd/bf854b_7a2ef8fad8da4d0ca71e0ce5af7593a0.pdf)
 
-Organized by  Brazilian writers Cristina Judar and Fred Di Giacomo, *Pandemonium: 9 Narratives Bridging São Paulo - Berlin* is an anthology that gathers tales by Aline Bei, Cristina Judar, Jorge Ialanji Filholini and Raimundo Neto (representing São Paulo) and Carola Saavedra, Fred Di Giacomo, Alexandre Ribeiro, Karin Hueck and Carsten Regel (representing Berlin).
+Organized by  Brazilian writers Cristina Judar and Fred Di Giacomo, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin* is an anthology that gathers tales by Aline Bei, Cristina Judar, Jorge Ialanji Filholini and Raimundo Neto (representing São Paulo) and Carola Saavedra, Fred Di Giacomo, Alexandre Ribeiro, Karin Hueck and Carsten Regel (representing Berlin).
  
 The book, whose art direction was the responsibility of the award-winning Rodolfo França, reflects the times of pandemic - economic crisis and the advance of authoritarianism, highlighting the differences in the impacts of this distopic reality felt both in Brazil and Germany.
 
@@ -65,6 +65,8 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [[diptych] an artist needs concrete problems](https://wayback.archive-it.org/824/20240707045609/https://exchanges.uiowa.edu/issues/enclosures/) by Julia de Souza, *Exchanges*, May 2020.  
 
+"Ruth, fearless" by Aline Bei, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
+
 "Trans-R Existence in Brazil" by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
 
 
@@ -88,6 +90,8 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 [A Machadian Figure](https://sbps.spanport.ucsb.edu/sites/default/files/sitefiles/volume/Vol_11/A%20Machadian%20Figure.pdf) by Alfredo Bosi, *Santa Barbara Portuguese Studies*, 2nd Ser., [Vol. 11](https://sbps.spanport.ucsb.edu/volume/11), "Alfredo Bosi," 2025.
 
 [Criticism with a Soul](https://piaui.folha.uol.com.br/materia/criticism-with-soul/) by Pedro Meira Monteiro, *piauí*, Edition 177, June 2021. 
+
+Møns Klint by Alexandre Ribeiro, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
 
 "The Pains and Pleasures of a Social Activist" by Beatriz Amaro, *Artememoria*, Nov 2018.
 
