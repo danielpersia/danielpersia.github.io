@@ -65,7 +65,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [[diptych] an artist needs concrete problems](https://wayback.archive-it.org/824/20240707045609/https://exchanges.uiowa.edu/issues/enclosures/) by Julia de Souza, *Exchanges*, May 2020.  
 
-"Ruth, fearless" by Aline Bei, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
+["Ruth, fearless"]((https://danielpersia.github.io/images/Persia_Bei_RuthFearless.pdf) by Aline Bei, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
 
 "Trans-R Existence in Brazil" by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
 
@@ -91,7 +91,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [Criticism with a Soul](https://piaui.folha.uol.com.br/materia/criticism-with-soul/) by Pedro Meira Monteiro, *piauí*, Edition 177, June 2021. 
 
-Møns Klint by Alexandre Ribeiro, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
+[Møns Klint](https://danielpersia.github.io/images/Persia_Ribeiro_MonsKlint.pdf) by Alexandre Ribeiro, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
 
 "The Pains and Pleasures of a Social Activist" by Beatriz Amaro, *Artememoria*, Nov 2018.
 
