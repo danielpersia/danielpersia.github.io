@@ -35,7 +35,7 @@ Throughout his career, Eduardo Chillida never stopped questioning everything rel
 
 Organized by  Brazilian writers Cristina Judar and Fred Di Giacomo, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin* is an anthology that gathers tales by Aline Bei, Cristina Judar, Jorge Ialanji Filholini and Raimundo Neto (representing São Paulo) and Carola Saavedra, Fred Di Giacomo, Alexandre Ribeiro, Karin Hueck and Carsten Regel (representing Berlin).
  
-The book, whose art direction was the responsibility of the award-winning Rodolfo França, reflects the times of pandemic - economic crisis and the advance of authoritarianism, highlighting the differences in the impacts of this distopic reality felt both in Brazil and Germany.
+The book, whose art direction was the responsibility of the award-winning Rodolfo França, reflects the times of pandemic - economic crisis and the advance of authoritarianism, highlighting the differences in the impacts of this dystopic reality felt both in Brazil and Germany.
 
 
 <hr> 
@@ -65,7 +65,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 [[diptych] an artist needs concrete problems](https://wayback.archive-it.org/824/20240707045609/https://exchanges.uiowa.edu/issues/enclosures/) by Julia de Souza, *Exchanges*, May 2020.  
 
-["Ruth, fearless"]((https://danielpersia.github.io/images/Persia_Bei_RuthFearless.pdf) by Aline Bei, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
+["Ruth, fearless"](https://danielpersia.github.io/images/Persia_Bei_RuthFearless.pdf) by Aline Bei, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
 
 "Trans-R Existence in Brazil" by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
 
