@@ -8,7 +8,7 @@ featured_image: /images/about-bw-landscape.jpeg
 
 ![](/images/Persia2.jpeg) 
 
-Daniel (Danny) Persia is an educator and interdisciplinary collaborator with expertise in local/global engagement, team facilitation, and public speaking. His thematic interests include education, the arts, racial equity, language and technology. Danny brings a systems thinking approach to organizational development and is committed to long-term vision, sustainability and community impact. 
+Daniel (Danny) Persia is an educator and interdisciplinary collaborator with expertise in local/global engagement, team facilitation, and public speaking. His thematic interests include education, the arts, racial equity, environment, language and technology. Danny brings a systems thinking approach to organizational development and is committed to long-term vision, sustainability and community impact. 
 
 Recently, Danny served as a Research Fellow for Princeton University's Brazil LAB (Luso-Afro-Brazilian), a multidisciplinary  teaching and research hub focused on environmentalism, racialized frontiers, and decolonizing/indigenizing the arts. His international leadership extends to central Kenya, where he has led communications, fundraising and donor management for the Mpala Research Centre and Mpala Wildlife Foundation - a non-profit partnership between Princeton, the Smithsonian, and various Kenyan institutions that promotes education, research and conservation across 48,000 acres of land. Danny has also participated in international exchanges in Spain (Fundación Ortega-Marañón) and the UK (Fulbright, King's College London). 
 
