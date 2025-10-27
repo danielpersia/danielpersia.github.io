@@ -1,6 +1,6 @@
 ---
 title: 'Writing'
-subtitle: 'Journalism / Digital Media / Creative '
+subtitle: 
 date: 2018-06-30 00:00:00
 description: Publications
 featured_image: '/images/jaider.jpg'
