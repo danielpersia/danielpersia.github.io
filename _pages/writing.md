@@ -140,13 +140,13 @@ Early-Career Research Spotlight with Brendah Nyaguthli (December 2022)
 
 The Center for Digital Humanities (CDH) at Princeton University is a collaborative research community that welcomes scholars from all disciplines and all levels. We work on projects, programs, and outreach activities aligned with our core belief that humanistic engagement with technology will deepen our understanding of the past, illuminate our present, and create a better future.
 
-The Humanities Data Teaching Fellowship Program ran in 2021. Fellows worked with the Center for Digital Humanities to develop humanistic course modules for the popular Princeton undergraduate course “Introduction to Data Sciences” (SML 201), offered by the Center for Statistics and Machine Learning. Humanities Data Teaching Fellows gained insight into basic data visualization and analysis topics covered in SML 201, honed their curriculum development skills, and applied their skills and training as humanists in innovative ways.
+The Humanities Data Teaching Fellowship Program ran in 2021. Fellows worked with the Center for Digital Humanities to develop humanistic course modules for the popular Princeton undergraduate course “Introduction to Data Sciences” (SML 201), offered by the Center for Statistics and Machine Learning. Below are open-source materials developed through the 
 
 CDH Presentation - The Translation Database (PDF)
 
-Translation Database Module (RMD file)
+Translation Database Module (PDF)
 
-Translation Database (CSV Data file) 
+If you are interested in teaching with this module, feel free to reach out. I would be happy to share the RMD file and CSV dataset. 
 
 
 <hr>
