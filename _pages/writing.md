@@ -124,6 +124,12 @@ Mpala’s institutional mission is to support research that improves ecosystem f
 
 The Smithsonian Conservation Biology Institute’s Global Health Program is based on the One Health platform, which recognizes that the health of the environment, humans, and animals, both wild and domestic, are inextricably linked. Working in Kenya for over 20 years, the program has embraced a multidisciplinary approach to investigating problems and solutions associated with this reality, bringing together students, post-doctoral fellows, and research scientists from all over the world.
 
+### Website 
+
+[Mpala Research Centre- Princeton International](https://international.princeton.edu/mpala)
+
+Mpala Research Centre is now featured on the Princeton International site. Content co-developed by Mpala, Princeton's International Affairs & Operations team, and the Office of Communications. 
+
 ### Interviews
 
 Early-Career Research Spotlight with Brendah Nyaguthli (December 2022)
