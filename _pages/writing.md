@@ -142,9 +142,9 @@ The Center for Digital Humanities (CDH) at Princeton University is a collaborati
 
 The Humanities Data Teaching Fellowship Program ran in 2021. Fellows worked with the Center for Digital Humanities to develop humanistic course modules for the popular Princeton undergraduate course “Introduction to Data Sciences” (SML 201), offered by the Center for Statistics and Machine Learning. Below are open-source materials developed through the 
 
-CDH Presentation - The Translation Database (PDF)
+[CDH Presentation - The Translation Database (PDF)](https://danielpersia.github.io/images/CDH_Translation_Presentation_Persia.pdf)
 
-Translation Database Module (PDF)
+[Translation Database Module (PDF)](https://danielpersia.github.io/images/TranslationDatabase_Module_Persia&Huang.pdf)
 
 If you are interested in teaching with this module, feel free to reach out. I would be happy to share the RMD file and CSV dataset. 
 
