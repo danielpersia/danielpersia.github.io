@@ -73,6 +73,8 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 ## Fiction 
 <br>
 
+"The Man Who Knew Javanese" by Lima Barreto. Forthcoming *The Penguin Book of Brazilian Short Stories," 2026. 
+
 ["The Domestic Hunter"](https://www.espalhelima.com.br/text/o-cacador-domestico-english/) by Lima Barreto, *Espalhe Lima*, 2022. 
 
 ["The Day That William Bonner Cried"](https://kenyonreview.org/kr-online-issue/2020-julyaug/selections/cidinha-da-silva-342846/) by Cidinha da Silva, *Kenyon Review Online*, Jul 2020. 
