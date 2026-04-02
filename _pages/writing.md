@@ -128,7 +128,7 @@ The Smithsonian Conservation Biology Institute’s Global Health Program is base
 
 [Mpala Research Centre- Princeton International](https://international.princeton.edu/mpala)
 
-Mpala Research Centre is now featured on the Princeton International site. Content co-developed by Mpala, Princeton's International Affairs & Operations team, and the Office of Communications. 
+Mpala Research Centre is now featured on the Princeton International site. This content was co-developed with Mpala, Princeton's International Affairs & Operations team, and the Office of Communications. 
 
 ### Interviews
 
