@@ -249,6 +249,10 @@ Brazil's 17th Annual International Literary Festival of Paraty.
 
 Reporting from the 17th Annual International Literary Festival of Paraty.
 
+### Peer-Reviewed Research 
+
+"Troubling Black Nobility: Racial Representation from Maria de Zayas's *Desengaños amorosos* (1647) to *La cocinera de Castamar* (2021)," forthcoming in the *Bulletin of Hispanic Studies*.
+
 ## Looking for a writer? 
 
 Feel free to contact me - I'd love to work with you!
