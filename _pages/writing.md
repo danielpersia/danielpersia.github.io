@@ -1,11 +1,6 @@
 ---
 title: 'Writing'
 subtitle: 
-output:
-  html_document:
-    toc: true
-    toc_depth: 1  
-    toc_float: true 
 date: 2018-06-30 00:00:00
 description: Publications
 featured_image: '/images/jaider.jpg'
