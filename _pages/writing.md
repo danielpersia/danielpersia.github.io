@@ -4,6 +4,11 @@ subtitle:
 date: 2018-06-30 00:00:00
 description: Publications
 featured_image: '/images/jaider.jpg'
+output:
+  html_document:
+    toc: true
+    toc_depth: 3  # Include up to 3 levels of subheadings (##, ###)
+    toc_float: true # (Optional) Makes the TOC float
 ---
 <details open markdown="block">
   <summary>
