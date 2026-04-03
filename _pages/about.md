@@ -21,9 +21,11 @@ Trilingual in Spanish and Portuguese, Danny has long been an advocate for multil
 Prior to Boston, Danny studied mathematics and creative writing at Denison University, a small Liberal Arts college in Granville, OH. There he served as President of the Denison Community Association, leading an organization of 20 service-learning committees engaged in social impact work in Licking County, OH. His deep commitment to root cause analysis and community asset mapping resulted in the publication "Building a Framework for Educational Success: A Study of the Newark, Ohio City School District," which traces the history of education in Newark back to World War II.  
 
 
+---
 
+### CV:
 
-
+CV (updated April 2026)
 
 ---
 
