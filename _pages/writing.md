@@ -24,7 +24,7 @@ featured_image: '/images/jaider.jpg'
 
 ![](/images/jaider.jpg)
 
-Spearheaded by the Princeton Insitute for International and Regional Studies (PIIRS) and in synergy with various departments, programs and initiatives, the Brazil LAB (Luso-Afro-Brazilian Studies) is a multi-disciplinary research and teaching hub for exploring the country’s history, politics and culture, along with its regional significance and international connections.<sup>1<sup>
+Spearheaded by the Princeton Insitute for International and Regional Studies (PIIRS) and in synergy with various departments, programs and initiatives, the [Brazil LAB](https://brazillab.princeton.edu) (Luso-Afro-Brazilian Studies) is a multi-disciplinary research and teaching hub for exploring the country’s history, politics and culture, along with its regional significance and international connections.<sup>1<sup>
 
 [Brazil LAB Profile](https://brazillab.princeton.edu/people/daniel-persia)
 
