@@ -10,14 +10,6 @@ output:
     toc_depth: 3  # Include up to 3 levels of subheadings (##, ###)
     toc_float: true # (Optional) Makes the TOC float
 ---
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 ## Original Research
 
