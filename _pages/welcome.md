@@ -9,7 +9,7 @@ permalink: /
 
 ![](/images/Persia.jpeg) 
 
-I'm a trilingual writer, storyteller and translator. 
+I'm a trilingual writer, translator, and storyteller. 
 
 I spend my time thinking about how emotional intelligence, empathy, and intercultural communication can redefine teambuilding and team success in both the public and private sectors. 
 
