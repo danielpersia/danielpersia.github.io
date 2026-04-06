@@ -82,7 +82,7 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 
 "Trans-R Existence in Brazil" by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
 
-Cover image: *Exchanges*, Issue 22, by Tara Barr. 
+Cover image: *Exchanges*, "Enclosures", 2020, by YooJung Hong. 
 
 
 ## Fiction 
