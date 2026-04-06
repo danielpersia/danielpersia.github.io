@@ -146,6 +146,9 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 
 ## Professional Editing 
 <br>
+
+![](/images/Danez_POR.jpg)
+
 [*Não digam que estamos mortos*](https://bazardotempo.com.br/loja/nao-digam-que-estamos-mortos/) by Danez Smith, translated by André Capilé. Bazar do Tempo, Rio de Janeiro, Brazil, November 2020. 
 
 [“‘If we don’t name ourselves, who’s gonna name us?’: Hablando de tudo um pouco con Ofelia García.”](https://revistas.unicentro.br/index.php/revista_interfaces/article/view/6140/4451) Interview with Ofelia García, conducted by Alejandro Nestor Lorenzetti and Jhuliane Evelyn da Silva. *Revista Interfaces*, Universidade Estadual do Centro-Oeste—UNICENTRO, Brazil, 2020. 
