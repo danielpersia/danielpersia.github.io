@@ -7,8 +7,6 @@ featured_image: '/images/Persia_OriginalReserach_Cover.jpeg'
 
 ---
 
-## Original Research
-
 ![](/images/Persia_OriginalResearch_Cover.jpeg)
 
 ### Book Manuscripts in Progress 
