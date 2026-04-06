@@ -40,6 +40,15 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 <hr> 
 
+![](/images/PenguinBookBrazilianShortStories.jpg)
+
+"The Man Who Knew Javanese" by Lima Barreto
+
+Spanning 150 years of Brazilian history, these stories are a thrilling cross-section of a diverse short story culture. Ranging from luscious avant-garde writing by Clarice Lispector to realist wit by Machado de Assis, *The Penguin Book of Brazilian Short Stories* takes in wild humour, heart-breaking drama, the legacy of slavery, the influence of waves of immigration, and a surprising preponderance of ants. Ethnicity, family and loyalty collide in Chico Buarque’s 'The Cousins from Campos'; and a man who absolutely does not know Javanese builds a career as a translator in Lima Barreto’s 'The Man Who Knew Javanese'.
+
+
+
+
 ## Art / Exhibitions 
 <br>
 ["Oceana"](https://www.coleccionbbva.com/wp-content/uploads/2023/06/Oceana-Pablo-Neruda.pdf) by Pablo Neruda. For [Oceana. A Vision of the sea](https://aliciachillida.es/en/exhibitions/oceana-a-vision-of-the-sea-in-the-bbva-collection/). [BBVA collection](https://www.coleccionbbva.com/en/exposicion_fisica/oceana-a-vision-of-the-sea-in-the-bbva-collection/). Curated by Alicia Chillida. Palace of San Nicolás, Bilbao. 2023. 
