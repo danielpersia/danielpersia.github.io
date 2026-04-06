@@ -23,6 +23,8 @@ My reserach focuses on four primary themes: **(1) arts & culture**, **(2) critic
 
 ## Translation and Representation
 
+![](/images/Translation&Representation.jpg)
+
 ### Peer-Reviewed Journal Articles  
 
 "Troubling Black Nobility: Racial Representation from Maria de Zayas's *Desengaños amorosos* (1647) to *La cocinera de Castamar* (2021)," forthcoming in the *Bulletin of Hispanic Studies*.
