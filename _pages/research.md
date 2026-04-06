@@ -7,9 +7,9 @@ featured_image: '/images/Persia_OriginalReserach_Cover.jpeg'
 
 ---
 
-My reserach focuses on three primary themes: **(1) arts, technology and society**, **(2) translation and representation**, and **(3) liberatory education**. My work is informed by my practice as an artist, translator, and educator. 
+My reserach moves in and out of three primary areas: **(1) arts, technology and society**, **(2) translation and representation**, and **(3) liberatory education**. My work is informed by my practice as an artist, translator, and educator. 
 
-## Critical Technology Studies 
+## Arts, Technology and Society
 
 ![](/images/Persia_OriginalResearch_Cover.jpeg)
 
