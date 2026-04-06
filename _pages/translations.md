@@ -62,7 +62,6 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 
 
 ## Poetry
-<br>
 
 ![](/images/julia_art.png)
 
@@ -86,7 +85,6 @@ Cover image: *Exchanges*, "Enclosures", 2020, by YooJung Hong.
 
 
 ## Fiction 
-<br>
 
 ![](/images/YIV.png)
 
@@ -156,7 +154,6 @@ Cover image: *Your Impossible Voice*, Issue 22, by Tara Barr.
 
 
 ## Professional Editing 
-<br>
 
 ![](/images/Danez_POR.jpg)
 
