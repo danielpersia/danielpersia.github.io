@@ -64,7 +64,7 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 ## Poetry
 <br>
 
-![](/images/julia_art.png)
+![](/images/julia_art.png)![](/images/enclosures.jpg)
 
 ["I am in today as if on a horse"](https://www.stephen-spender.org/third-prize-open-category-2023/) by Ana Martins Marques, *Stephen Spender Poetry Prize* , Third Prize, Collaborative Translation (PELTA), 2023. 
 
@@ -82,9 +82,13 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 
 "Trans-R Existence in Brazil" by Academia TransLiterária, *Artememoria*, with Lara Norgaard, May 2019.
 
+Cover image: *Exchanges*, Issue 22, by Tara Barr. 
+
 
 ## Fiction 
 <br>
+
+![](/images/YIV.png)
 
 "The Man Who Knew Javanese" by Lima Barreto. Forthcoming in [*The Penguin Book of Brazilian Short Stories*](https://www.penguin.co.uk/books/457968/the-penguin-book-of-brazilian-short-stories/9780241678350), 2027. 
 
@@ -99,6 +103,8 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 ["The Neighbor in Apartment 102"](http://www.yourimpossiblevoice.com/the-neighbor-in-apartment-102/) by Cidinha da Silva, with Ana Luiza de Oliveira e Silva, *Your Impossible Voice*, Apr 2020. 
 
 ["Theory of Affections"](https://www.asymptotejournal.com/blog/2019/11/19/translation-tuesday-theory-of-affections-by-luca-argel/) by Luca Argel, *Asymptote Journal*, Nov 2019. 
+
+Cover image: *Your Impossible Voice*, Issue 22, by Tara Barr. 
 
 
 ## Nonfiction & Essays
