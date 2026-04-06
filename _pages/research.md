@@ -31,7 +31,7 @@ My reserach focuses on three primary areas: **(1) arts, technology and society**
 
 "Framed: Black Authorship in Juan Francisco Manzano's *Autobiography of a Slave* and Maria Firmina dos Reis's 'The Slave Woman,'" under review. 
 
-### Selected Publications  
+### Selected Presentations  
 
 "Translating Lélia Gonzalez's Amefricanity: A Collaborative Approach," with Victória Bárbara Lopes dos Santos, Latin American Studies Association (LASA), Vancouver, Canada, May 2023. 
 
@@ -44,7 +44,7 @@ My reserach focuses on three primary areas: **(1) arts, technology and society**
 
 ![](/images/LiberatoryEducation.jpg)
 
-### Selected Publications 
+### Selected Presentations 
 
 "'Tupi, or not tupi,' that is the question of Writing Centers in Brazil." International Writing Centers Association (IWCA), National Conference on Peer Tutoring in Writing (NCPTW), Columbus, OH, October 2019. Primary author. 
 
