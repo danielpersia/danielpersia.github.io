@@ -56,9 +56,9 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 ["Oceana"](https://www.coleccionbbva.com/wp-content/uploads/2023/06/Oceana-Pablo-Neruda.pdf) by Pablo Neruda. For [Oceana. A Vision of the Sea](https://aliciachillida.es/en/exhibitions/oceana-a-vision-of-the-sea-in-the-bbva-collection/). [BBVA collection](https://www.coleccionbbva.com/en/exposicion_fisica/oceana-a-vision-of-the-sea-in-the-bbva-collection/). Curated by Alicia Chillida. Palace of San Nicolás, Bilbao. 2023. [Virutal Tour](https://my.matterport.com/show/?m=pEUH6Nyt3Q4). Cover image: Juan de la Corte- *Vista II de la batalla naval de Pernambuco- h. 1632*. 
 
 
-[*Writings*](https://shop.museochillidaleku.com/products/escritos) by Eduardo Chillida. La Fábrica and Hauser & Wirth. Chillida Leku. 2016 / 2019 / 2023. 
+[*Writings*](https://shop.museochillidaleku.com/products/escritos) by Eduardo Chillida. La Fábrica and Hauser & Wirth. Chillida Leku. 2019.  
 
-[*Masaveu Collection: From Romanesque to Enlightenment. Image and Material*](https://www.youtube.com/watch?v=m-LImZQpQ8M). Fundación María Cristina Masaveu Peterson. Colección Masaveu. Madrid. 2013. 
+[*Masaveu Collection: From Romanesque to Enlightenment. Image and Material* (Video)](https://www.youtube.com/watch?v=m-LImZQpQ8M). Fundación María Cristina Masaveu Peterson. Colección Masaveu. Madrid. 2013. 
 
 
 ## Poetry
