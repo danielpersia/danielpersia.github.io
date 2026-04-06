@@ -64,6 +64,8 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 ## Poetry
 <br>
 
+![](/images/julia_art.png)
+
 ["I am in today as if on a horse"](https://www.stephen-spender.org/third-prize-open-category-2023/) by Ana Martins Marques, *Stephen Spender Poetry Prize* , Third Prize, Collaborative Translation (PELTA), 2023. 
 
 [Three poems](https://circumferencemag.com/here-i-am-again-submersed/) by Grazi Shimizu, *Circumference*, 2022. 
