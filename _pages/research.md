@@ -23,7 +23,6 @@ My reserach focuses on three primary areas: **(1) arts, technology and society**
 
 ## Translation and Representation
 
-![](/images/Translation&Representation.jpg)
 
 ### Peer-Reviewed Journal Articles  
 
