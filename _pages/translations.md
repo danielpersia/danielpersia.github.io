@@ -42,7 +42,7 @@ The book, whose art direction was the responsibility of the award-winning Rodolf
 
 ![](/images/PenguinBookBrazilianShortStories.jpg)
 
-"The Man Who Knew Javanese" by Lima Barreto
+"The Man Who Knew Javanese" by Lima Barreto. In [*The Penguin Book of Brazilian Short Stories*](https://www.penguin.co.uk/books/457968/the-penguin-book-of-brazilian-short-stories/9780241678350), edited by Padma Viswanathan and Daniel Hahn. Penguin Classics. Forthcoming 2027. 
 
 Spanning 150 years of Brazilian history, these stories are a thrilling cross-section of a diverse short story culture. Ranging from luscious avant-garde writing by Clarice Lispector to realist wit by Machado de Assis, *The Penguin Book of Brazilian Short Stories* takes in wild humour, heart-breaking drama, the legacy of slavery, the influence of waves of immigration, and a surprising preponderance of ants. Ethnicity, family and loyalty collide in Chico Buarque’s 'The Cousins from Campos'; and a man who absolutely does not know Javanese builds a career as a translator in Lima Barreto’s 'The Man Who Knew Javanese'.
 
@@ -71,7 +71,6 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 
 [Four poems from *In the South American Capital of Pork-Lite*](https://wayback.archive-it.org/824/20240707051008/https://exchanges.uiowa.edu/issues/tether/) by Catarina Lins, *Exchanges*, December 2020.  
 
-
 [[diptych] an artist needs concrete problems](https://wayback.archive-it.org/824/20240707045609/https://exchanges.uiowa.edu/issues/enclosures/) by Julia de Souza, *Exchanges*, May 2020.  
 
 ["Ruth, fearless"](https://danielpersia.github.io/images/Persia_Bei_RuthFearless.pdf) by Aline Bei, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
@@ -84,8 +83,9 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 
 "The Man Who Knew Javanese" by Lima Barreto. Forthcoming in [*The Penguin Book of Brazilian Short Stories*](https://www.penguin.co.uk/books/457968/the-penguin-book-of-brazilian-short-stories/9780241678350), 2027. 
 
-
 ["The Domestic Hunter"](https://www.espalhelima.com.br/text/o-cacador-domestico-english/) by Lima Barreto, *Espalhe Lima*, 2022. 
+
+"Møns Klint" by Alexandre Ribeiro, *Pandemonium: Nine Narratives Bridging São Paulo - Berlin*, PANdemônio edições, 2020. 
 
 ["The Day That William Bonner Cried"](https://kenyonreview.org/kr-online-issue/2020-julyaug/selections/cidinha-da-silva-342846/) by Cidinha da Silva, *Kenyon Review Online*, Jul 2020. 
 
