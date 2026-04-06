@@ -16,7 +16,9 @@ menu_settings:
     - title: 'Writing'
       url: '/writing' 
     - title: 'Translation'
-      url: '/translations'   
+      url: '/translations'
+    - title: 'Research'
+      url: '/research' 
     - title: 'Contact'
       url: '/contact'
 
