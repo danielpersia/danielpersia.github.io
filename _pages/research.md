@@ -40,6 +40,8 @@ My reserach focuses on four primary themes: **(1) arts & culture**, **(2) critic
 
 ## Liberatory Education
 
+![](/images/LiberatoryEducation.jpg)
+
 ### Selected Publications 
 
 "'Tupi, or not tupi,' that is the question of Writing Centers in Brazil." International Writing Centers Association (IWCA), National Conference on Peer Tutoring in Writing (NCPTW), Columbus, OH, October 2019. Primary author. 
