@@ -7,7 +7,10 @@ featured_image: '/images/Persia_OriginalReserach_Cover.jpeg'
 
 ---
 
-My reserach focuses on three primary areas: **(1) arts, technology and society**, **(2) translation and representation**, and **(3) liberatory education**. My research is informed by my practice as a community-engaged artist, translator, and educator. 
+My reserach focuses on three primary areas, informed by my practice as a community-engaged artist, translator and educator: 
+1. Arts, Technology and Society
+1. Translation and Representation
+1. Liberatory Education
 
 ## Arts, Technology and Society
 
