@@ -8,6 +8,12 @@ featured_image: /images/about-bw-landscape.jpeg
 
 ![](/images/Persia2.jpeg) 
 
+### CV:
+
+[CV](https://danielpersia.github.io/images/DanielPersia_CV_April2026.pdf) (updated April 2026)
+
+---
+
 **Daniel (Danny) Persia** is an educator and cross-sector collaborator with expertise in local/global engagement, team facilitation, and public speaking. His thematic interests include education, the arts, environment, racial equity, language and technology. Danny brings a systems thinking approach to organizational development and is committed to long-term vision, sustainability and community impact. He is currently a PhD candidate at Princeton University, where he also teaches Spanish and Portuguese.
 
 Recently, Danny served as a Research Fellow for Princeton University's Brazil LAB (Luso-Afro-Brazil), a multidisciplinary  teaching and research hub focused on environmentalism, racialized frontiers, and decolonizing/indigenizing the arts. His international leadership extends to central Kenya, where he has led communications, fundraising and donor management initiatives for the Mpala Research Centre and Mpala Wildlife Foundation - a non-profit partnership between Princeton, the Smithsonian, and various Kenyan institutions that promotes education, research and conservation across 48,000 acres. He has also held fellowships with Princeton's Program in Latin American Studies and Center for Digital Humanities. 
@@ -23,11 +29,6 @@ Prior to Boston, Danny studied mathematics and creative writing at Denison Unive
 
 ---
 
-### CV:
-
-[CV](https://danielpersia.github.io/images/DanielPersia_CV_April2026.pdf) (updated April 2026)
-
----
 
 ### Featured:
 
