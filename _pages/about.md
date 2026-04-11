@@ -25,7 +25,7 @@ Prior to Boston, Danny studied mathematics and creative writing at Denison Unive
 
 ### CV:
 
-CV (updated April 2026)
+[CV](https://danielpersia.github.io/images/DanielPersia_CV_April2026.pdf) (updated April 2026)
 
 ---
 
