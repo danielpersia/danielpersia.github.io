@@ -8,11 +8,6 @@ featured_image: /images/about-bw-landscape.jpeg
 
 ![](/images/Persia2.jpeg) 
 
-### CV:
-
-[CV](https://danielpersia.github.io/images/DanielPersia_CV_April2026.pdf) (updated April 2026)
-
----
 
 **Daniel (Danny) Persia** is an educator and cross-sector collaborator with expertise in local/global engagement, team facilitation, and public speaking. His thematic interests include education, the arts, environment, racial equity, language and technology. Danny brings a systems thinking approach to organizational development and is committed to long-term vision, sustainability and community impact. He is currently a PhD candidate at Princeton University, where he also teaches Spanish and Portuguese.
 
@@ -29,6 +24,11 @@ Prior to Boston, Danny studied mathematics and creative writing at Denison Unive
 
 ---
 
+### CV:
+
+[CV](https://danielpersia.github.io/images/DanielPersia_CV_April2026.pdf) (updated April 2026)
+
+---
 
 ### Featured:
 
