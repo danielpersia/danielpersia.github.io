@@ -15,7 +15,7 @@ I spend my time thinking about how emotional intelligence, empathy, and intercul
 
 I am currently finishing a PhD in languages at Princeton University. My research focuses on cross-cultural communication, and how translators navigate the complex space between their own identities and those they translate. I've been collaborating at the intersection of education, language and internationalization for the last decade, with expertise across the Atlantic (Americas-Europe-Africa) and a deep interest in the impact of new and emerging technologies on local communities. 
 
-I developed this website as a dynamic portfolio that's constantly being updated and transformed. I welcome thoughts, suggestions, questions, and dialogue! 
+I developed this website as a dynamic portfolio that's constantly being updated and transformed. The idea was to learn enough coding to build and maintain a site at zero-cost, without the pressure of recurring subscriptions and continual price increases. I welcome thoughts, suggestions, and questions about the design! 
 
 
 
