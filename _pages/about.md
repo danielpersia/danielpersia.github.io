@@ -9,9 +9,9 @@ featured_image: /images/about-bw-landscape.jpeg
 ![](/images/Persia2.jpeg) 
 
 
-**Daniel (Danny) Persia, PhD** is an educator and cross-sector collaborator with expertise in local/global engagement, team facilitation, and public speaking. His thematic interests include education, the arts, environment, racial equity, language and technology. Danny brings a systems thinking approach to organizational development and is committed to long-term vision, sustainability and community impact. He holds a PhD from Princeton University, where he has also taught Spanish and Portuguese.
+**Daniel (Danny) Persia, PhD** is an educator and cross-sector collaborator with expertise in local/global engagement, team facilitation, and communications. His thematic interests include education, the arts, environment, racial equity, language and technology. Danny brings a systems-thinking approach to organizational development and is committed to long-term vision, sustainability and community impact. He holds a PhD from Princeton University, where he has also taught Spanish and Portuguese.
 
-Recently, Danny served as a Research Fellow for Princeton University's Brazil LAB (Luso-Afro-Brazil), a multidisciplinary  teaching and research hub focused on environmentalism, racialized frontiers, and decolonizing/indigenizing the arts. His international leadership extends to central Kenya, where he has led communications, fundraising and donor management initiatives for the Mpala Research Centre and Mpala Wildlife Foundation - a non-profit partnership between Princeton, the Smithsonian, and various Kenyan institutions that promotes education, research and conservation across 48,000 acres. He has also held fellowships with Princeton's Program in Latin American Studies and Center for Digital Humanities. 
+Recently, Danny served as a Research Fellow for Princeton University's Brazil LAB (Luso-Afro-Brazil), a multidisciplinary  teaching and research hub focused on environmentalism, inequalities, racialized frontiers, and decolonizing/indigenizing the arts. His international leadership extends to central Kenya, where he has led communications, fundraising and donor management initiatives for the Mpala Wildlife Foundation and Mpala Research Centre - a non-profit partnership between Princeton, the Smithsonian, and various Kenyan institutions that promotes education, research and conservation across 48,000 acres. He has also held fellowships with Princeton's Program in Latin American Studies and Center for Digital Humanities. 
 
 Prior to his work at Princeton, Danny served as Regional Lead for the US-Brazil Fulbright Commission, overseeing grantees across six public and private institutions in São Paulo and Paraná. Based in Curitiba, he played an active role in growing Brazil's first Writing Center at the Federal University of Paraná (UFPR) and expanding to additional cities such as Porto Alegre and Caixias do Sul. Danny collaborated extensively with the university's international branch (Agência UFPR Internacional) and co-taught a blended executive leadership course through the Center for Integration of Distance Learning Policies. Danny has also participated in international exchanges in Spain (Fundación Ortega-Marañón) and the UK (Fulbright, King's College London). He has been a Fulbright application reviewer for the past 10 years. 
 
@@ -19,14 +19,14 @@ Danny began his career as a K-12 educator at the Boston Arts Academy, Boston's o
 
 Trilingual in Spanish and Portuguese, Danny has long been an advocate for multilingual education. Through active collaboration with interpreters and deep engagement with Apple's accessibility features as a Creative, he has developed a toolkit for more inclusive instructional design. He holds a certificate in Teaching English Language Learners (TELL) from Boston College and has completed coursework in Implementing Inclusive Education through Harvard's Graduate School of Education. 
 
-Prior to Boston, Danny studied mathematics and creative writing at Denison University, a small Liberal Arts college in Granville, OH. There he served as President of the Denison Community Association, leading an organization of 20 service-learning committees engaged in social impact work in Licking County, OH. His deep commitment to root cause analysis and community asset mapping resulted in the publication "Building a Framework for Educational Success: A Study of the Newark, Ohio City School District," which traces the history of education in Newark back to World War II.  
+Prior to Boston, Danny studied mathematics and creative writing at Denison University, a small Liberal Arts college in Granville, OH. There he served as President of the Denison Community Association, overseeing 20 service-learning committees engaged in social impact work in Licking County, OH. His  commitment to root cause analysis and community asset mapping resulted in the publication "Building a Framework for Educational Success: A Study of the Newark, Ohio City School District," which traces the history of education in Newark to World War II.  
 
 
 ---
 
 ### CV:
 
-[CV](https://danielpersia.github.io/images/DanielPersia_CV_April2026.pdf) (updated April 2026)
+[CV](https://danielpersia.github.io/images/DanielPersia_CV_April2026.pdf) 
 
 ---
 
