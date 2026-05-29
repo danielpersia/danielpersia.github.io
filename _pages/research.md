@@ -18,7 +18,7 @@ My reserach focuses on **three primary areas**, informed by my practice as a **c
 
 ### Book Manuscript in Progress 
 
-***The Translator's "I": Race, Technology, and Archive in the Digital Age*** makes a series of claims about translation in the contemporary moment—its contradictions of race, its entanglements with technology, its orientation to the archive—that reimagine the translator’s role in 21st-century critique. I invite readers to traverse new ground at the intersection of Translation Studies, Black Studies, Latin American Studies, and Critical AI Studies, showing that a translator’s epistemological position—in a constant bind between human subjectivity and machine technology—offers a singular vantage point from which to analyze the increasingly digital systems displacing historical notions of text, labor, capital and archive.
+***The Translator's "I": Race, Technology, and Archive in the Post-Digital Age*** makes a series of claims about translation in the contemporary moment—its contradictions of race, its entanglements with technology, its orientation to the archive—that reimagine the translator’s role in 21st-century critique. I show that a translator’s epistemological position—in a constant bind between human subjectivity and machine technology—offers a singular vantage point from which to analyze the increasingly digital systems displacing historical notions of text, labor, and capital.
 
 ### Selected Presentations 
 
