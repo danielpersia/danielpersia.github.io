@@ -14,6 +14,14 @@ featured_image: /images/writings.jpg
 
 Spanning 150 years of Brazilian history, these stories are a thrilling cross-section of a diverse short story culture. Ranging from luscious avant-garde writing by Clarice Lispector to realist wit by Machado de Assis, *The Penguin Book of Brazilian Short Stories* takes in wild humour, heart-breaking drama, the legacy of slavery, the influence of waves of immigration, and a surprising preponderance of ants. Ethnicity, family and loyalty collide in Chico Buarque’s 'The Cousins from Campos'; and a man who absolutely does not know Javanese builds a career as a translator in Lima Barreto’s 'The Man Who Knew Javanese'.
 
+Find *The Penguin Book of Brazilian Short Stories* at...
+
+[Penguin Books UK](https://www.penguin.co.uk/books/457968/the-penguin-book-of-brazilian-short-stories/9780241678350)
+
+[Bookshop UK](https://uk.bookshop.org/p/books/the-penguin-book-of-brazilian-short-stories-various/99dc4be314d060d1)
+
+[Amazon](https://www.amazon.com/dp/B0GR1SMD4M?lv=shuf&language=es&channelId=500&plpRedirect=mhFallback)
+
 <hr>
 
 ![](/images/alfredo-cortina-elizabeth.jpg)
