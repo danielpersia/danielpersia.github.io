@@ -16,11 +16,13 @@ Spanning 150 years of Brazilian history, these stories are a thrilling cross-sec
 
 <hr>
 
+![](/images/alfredo-cortina-elizabeth.jpg)
+
 Find *Alfredo Cortina: Elizabeth* at...
 
 [La Fábrica](https://tienda.lafabrica.com/editorial-la-fabrica/9690-alfredo-cortina-elizabeth.html)
 
-*Elizabeth* brings together a selection of images captured by Alfredo Cortina over the course of more than three decades. In them, the poet Elizabeth Schön traverses various settings across Venezuela, serving as the unifying thread of a visual essay on distance, intimacy, and the transformation of landscape.
+*Elizabeth* brings together a selection of photographs taken by Alfredo Cortina over the course of more than three decades. In these images, the poet Elizabeth Schön traverses various settings across Venezuela, serving as the unifying thread of a visual essay on distance, intimacy, and the transformation of landscape.
 
 The book also incorporates her own words, establishing a dialogue between photography and poetry.
 
