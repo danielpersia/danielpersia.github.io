@@ -7,6 +7,23 @@ featured_image: /images/writings.jpg
 
 ## Books 
 
+
+![](/images/PenguinBookBrazilianShortStories.jpg)
+
+"The Man Who Knew Javanese" by Lima Barreto. In [*The Penguin Book of Brazilian Short Stories*](https://www.penguin.co.uk/books/457968/the-penguin-book-of-brazilian-short-stories/9780241678350), edited by Padma Viswanathan and Daniel Hahn. Penguin Classics. Forthcoming 2027. 
+
+Spanning 150 years of Brazilian history, these stories are a thrilling cross-section of a diverse short story culture. Ranging from luscious avant-garde writing by Clarice Lispector to realist wit by Machado de Assis, *The Penguin Book of Brazilian Short Stories* takes in wild humour, heart-breaking drama, the legacy of slavery, the influence of waves of immigration, and a surprising preponderance of ants. Ethnicity, family and loyalty collide in Chico Buarque’s 'The Cousins from Campos'; and a man who absolutely does not know Javanese builds a career as a translator in Lima Barreto’s 'The Man Who Knew Javanese'.
+
+<hr>
+
+Find *Alfredo Cortina: Elizabeth* at...
+
+[La Fábrica](https://tienda.lafabrica.com/editorial-la-fabrica/9690-alfredo-cortina-elizabeth.html)
+
+*Elizabeth* brings together a selection of images captured by Alfredo Cortina over the course of more than three decades. In them, the poet Elizabeth Schön traverses various settings across Venezuela, serving as the unifying thread of a visual essay on distance, intimacy, and the transformation of landscape.
+
+The book also incorporates her own words, establishing a dialogue between photography and poetry.
+
 ![](/images/writings.jpg)
 
 Find *Writings* by Eduardo Chillida at...<br>
@@ -38,13 +55,6 @@ Organized by  Brazilian writers Cristina Judar and Fred Di Giacomo, *Pandemonium
 The book, whose art direction was the responsibility of the award-winning Rodolfo França, reflects the times of pandemic - economic crisis and the advance of authoritarianism, highlighting the differences in the impacts of this dystopic reality felt both in Brazil and Germany.
 
 
-<hr> 
-
-![](/images/PenguinBookBrazilianShortStories.jpg)
-
-"The Man Who Knew Javanese" by Lima Barreto. In [*The Penguin Book of Brazilian Short Stories*](https://www.penguin.co.uk/books/457968/the-penguin-book-of-brazilian-short-stories/9780241678350), edited by Padma Viswanathan and Daniel Hahn. Penguin Classics. Forthcoming 2027. 
-
-Spanning 150 years of Brazilian history, these stories are a thrilling cross-section of a diverse short story culture. Ranging from luscious avant-garde writing by Clarice Lispector to realist wit by Machado de Assis, *The Penguin Book of Brazilian Short Stories* takes in wild humour, heart-breaking drama, the legacy of slavery, the influence of waves of immigration, and a surprising preponderance of ants. Ethnicity, family and loyalty collide in Chico Buarque’s 'The Cousins from Campos'; and a man who absolutely does not know Javanese builds a career as a translator in Lima Barreto’s 'The Man Who Knew Javanese'.
 
 
 
