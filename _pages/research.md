@@ -30,7 +30,7 @@ My reserach focuses on **three primary areas**, informed by my practice as a **c
 
 ### Peer-Reviewed Journal Articles  
 
-"Troubling Black Nobility: Racial Representation from Maria de Zayas's *Desengaños amorosos* (1647) to *La cocinera de Castamar* (2021)," forthcoming in the *Bulletin of Hispanic Studies*.
+["Troubling Black Nobility: Racial Representation from Maria de Zayas's *Desengaños amorosos* (1647) to *La cocinera de Castamar* (2021)"](https://www.liverpooluniversitypress.co.uk/doi/10.3828/bhs.2026.46), *Bulletin of Hispanic Studies*. 18 September 2026. 
 
 "Framed: Black Authorship in Juan Francisco Manzano's *Autobiography of a Slave* and Maria Firmina dos Reis's 'The Slave Woman,'" forthcoming in the *Journal of Latin American Cultural Studies*. 
 
